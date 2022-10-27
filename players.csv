@@ -1,0 +1,1000 @@
+player_id,last_season,current_club_id,pretty_name,country_of_birth,country_of_citizenship,date_of_birth,position,foot,height_in_cm,market_value_in_gbp,highest_market_value_in_gbp,domestic_competition_id,club_pretty_name
+342229,2021,583,Kylian Mbappe,France,France,1998/12/20,Attack,Right,178,144000000,180000000,FR1,Fc Paris Saint Germain
+418560,2021,16,Erling Haaland,England,Norway,2000/7/21,Attack,Left,194,135000000,135000000,L1,Borussia Dortmund
+371998,2021,418,Vinicius Junior,Brazil,Brazil,2000/7/12,Attack,Right,176,90000000,90000000,ES1,Real Madrid
+148455,2021,31,Mohamed Salah,Egypt,Egypt,1992/6/15,Attack,Left,175,81000000,135000000,GB1,Fc Liverpool
+406635,2021,281,Phil Foden,England,England,2000/5/28,Midfield,Left,171,81000000,81000000,GB1,Manchester City
+132098,2021,148,Harry Kane,England,England,1993/7/28,Attack,Right,188,81000000,135000000,GB1,Tottenham Hotspur
+357498,2021,506,Du Scaron An Vlahovi?,Yugoslavia (Republic),Serbia,2000/1/28,Attack,Left,190,76500000,76500000,IT1,Juventus Turin
+88755,2021,281,Kevin De Bruyne,Belgium,Belgium,1991/6/28,Attack,Right,181,76500000,135000000,GB1,Manchester City
+240306,2021,985,Bruno Fernandes,Portugal,Portugal,1994/9/8,Attack,Right,179,76500000,81000000,GB1,Manchester United
+161056,2021,27,Joshua Kimmich,Germany,Germany,1995/2/8,Midfield,Right,177,76500000,81000000,L1,Fc Bayern Munchen
+314353,2021,31,Trent Alexander Arnold,England,England,1998/10/7,Defender,Right,180,72000000,99000000,GB1,Fc Liverpool
+241641,2021,281,Bernardo Silva,Portugal,Portugal,1994/8/10,Attack,Left,173,72000000,90000000,GB1,Manchester City
+357565,2021,281,Rodri,Spain,Spain,1996/6/22,Midfield,Right,191,72000000,72000000,GB1,Manchester City
+683840,2021,131,Pedri,Spain,Spain,2002/11/25,Midfield,Right,174,72000000,72000000,ES1,Fc Barcelona
+68290,2021,583,Neymar,Brazil,Brazil,1992/2/5,Attack,Right,175,67500000,162000000,FR1,Fc Paris Saint Germain
+406625,2021,46,Lautaro Martinez,Argentina,Argentina,1997/8/22,Attack,Right,174,67500000,72000000,IT1,Inter Mailand
+258004,2021,281,Ruben Dias,Portugal,Portugal,1997/5/14,Defender,Right,187,67500000,67500000,GB1,Manchester City
+401173,2021,985,Jadon Sancho,England,England,2000/3/25,Attack,Right,180,67500000,117000000,GB1,Manchester United
+346483,2021,631,Mason Mount,England,England,1999/1/10,Attack,Right,180,67500000,67500000,GB1,Fc Chelsea
+91845,2021,148,Heung Min Son,"Korea, South","Korea, South",1992/7/8,Attack,Both,184,67500000,81000000,GB1,Tottenham Hotspur
+357662,2021,379,Declan Rice,England,England,1999/1/14,Midfield,Right,188,67500000,67500000,GB1,West Ham United
+581678,2021,16,Jude Bellingham,England,England,2003/6/29,Midfield,Right,186,67500000,67500000,L1,Borussia Dortmund
+266302,2021,398,Sergej Milinkovi? Savi?,Spain,Serbia,1995/2/27,Midfield,Right,191,63000000,81000000,IT1,Lazio Rom
+181767,2021,583,Marquinhos,Brazil,Brazil,1994/5/14,Defender,Right,183,63000000,67500000,FR1,Fc Paris Saint Germain
+357164,2021,5,Rafael Leao,Portugal,Portugal,1999/6/10,Attack,Right,188,63000000,63000000,IT1,Ac Mailand
+326031,2021,506,Matthijs De Ligt,Netherlands,Netherlands,1999/8/12,Defender,Right,189,63000000,67500000,IT1,Juventus Turin
+255942,2021,46,Nicolo Barella,Italy,Italy,1997/2/7,Midfield,Right,172,63000000,63000000,IT1,Inter Mailand
+96341,2021,631,Romelu Lukaku,Belgium,Belgium,1993/5/13,Attack,Left,191,63000000,90000000,GB1,Fc Chelsea
+200512,2021,31,Sadio Mane,Senegal,Senegal,1992/4/10,Attack,Right,174,63000000,135000000,GB1,Fc Liverpool
+203460,2021,281,Jack Grealish,England,England,1995/9/10,Attack,Right,180,63000000,90000000,GB1,Manchester City
+134425,2021,281,Raheem Sterling,Jamaica,England,1994/12/8,Attack,Right,170,63000000,144000000,GB1,Manchester City
+309400,2021,631,Kai Havertz,Germany,Germany,1999/6/11,Attack,Left,190,63000000,81000000,GB1,Fc Chelsea
+462250,2021,13,Joao Felix,Portugal,Portugal,1999/11/10,Attack,Both,181,63000000,90000000,ES1,Atletico Madrid
+369081,2021,418,Federico Valverde,Uruguay,Uruguay,1998/7/22,Midfield,Right,182,63000000,63000000,ES1,Real Madrid
+159471,2021,27,Serge Gnabry,Germany,Germany,1995/7/14,Attack,Right,176,63000000,81000000,L1,Fc Bayern Munchen
+192565,2021,27,Leroy Sane,Germany,Germany,1996/1/11,Attack,Left,183,63000000,90000000,L1,Fc Bayern Munchen
+153084,2021,27,Leon Goretzka,Germany,Germany,1995/2/6,Midfield,Right,189,63000000,63000000,L1,Fc Bayern Munchen
+424204,2021,27,Alphonso Davies,Ghana,Canada,2000/11/2,Defender,Left,183,63000000,72000000,L1,Fc Bayern Munchen
+598577,2021,15,Florian Wirtz,Germany,Germany,2003/5/3,Attack,Right,176,63000000,63000000,L1,Bayer 04 Leverkusen
+398073,2021,583,Achraf Hakimi,Spain,Morocco,1998/11/4,Defender,Right,181,58500000,63000000,FR1,Fc Paris Saint Germain
+341092,2021,506,Federico Chiesa,Italy,Italy,1997/10/25,Attack,Right,175,58500000,63000000,IT1,Juventus Turin
+204069,2021,46,Milan Skriniar,Slovakia,Slovakia,1995/2/11,Defender,Right,188,58500000,58500000,IT1,Inter Mailand
+401923,2021,6195,Victor Osimhen,Nigeria,Nigeria,1998/12/29,Attack,Right,186,58500000,58500000,IT1,Ssc Neapel
+234803,2021,31,Andrew Robertson,Scotland,Scotland,1994/3/11,Defender,Left,178,58500000,72000000,GB1,Fc Liverpool
+480692,2021,31,Luis Diaz,Colombia,Colombia,1997/1/13,Attack,Right,180,58500000,58500000,GB1,Fc Liverpool
+182712,2021,281,Joao Cancelo,Portugal,Portugal,1994/5/27,Defender,Right,182,58500000,58500000,GB1,Manchester City
+433177,2021,11,Bukayo Saka,England,England,2001/9/5,Midfield,Left,178,58500000,58500000,GB1,Fc Arsenal
+344381,2021,23826,Christopher Nkunku,France,France,1997/11/14,Attack,Right,175,58500000,58500000,L1,Rasenballsport Leipzig
+315853,2021,46,Alessandro Bastoni,Italy,Italy,1999/4/13,Defender,Left,190,54000000,54000000,IT1,Inter Mailand
+340950,2021,31,Diogo Jota,Portugal,Portugal,1996/12/4,Attack,Right,178,54000000,54000000,GB1,Fc Liverpool
+225693,2021,31,Fabinho,Brazil,Brazil,1993/10/23,Midfield,Right,188,54000000,63000000,GB1,Fc Liverpool
+258923,2021,985,Marcus Rashford,England,England,1997/10/31,Attack,Right,185,54000000,76500000,GB1,Manchester United
+472423,2021,631,Reece James,England,England,1999/12/8,Defender,Right,180,54000000,54000000,GB1,Fc Chelsea
+411975,2021,368,Jules Kounde,France,France,1998/11/12,Defender,Right,178,54000000,54000000,ES1,Fc Sevilla
+351478,2021,681,Mikel Oyarzabal,Spain,Spain,1997/4/21,Attack,Left,181,54000000,63000000,ES1,Real Sociedad San Sebastian
+274839,2021,1003,Wilfred Ndidi,Nigeria,Nigeria,1996/12/16,Midfield,Right,183,54000000,54000000,GB1,Leicester City
+466810,2021,131,Ansu Fati,Guinea-Bissau,Spain,2002/10/31,Attack,Right,178,54000000,72000000,ES1,Fc Barcelona
+646740,2021,131,Gavi,Spain,Spain,2004/8/5,Midfield,Right,173,54000000,54000000,ES1,Fc Barcelona
+326330,2021,131,Frenkie De Jong,Netherlands,Netherlands,1997/5/12,Midfield,Right,180,54000000,81000000,ES1,Fc Barcelona
+412363,2021,418,Rodrygo,Brazil,Brazil,2001/1/9,Attack,Right,174,54000000,54000000,ES1,Real Madrid
+401530,2021,418,Eder Militao,Brazil,Brazil,1998/1/18,Defender,Right,186,54000000,54000000,ES1,Real Madrid
+108390,2021,418,Thibaut Courtois,Belgium,Belgium,1992/5/11,Goalkeeper,Left,200,54000000,67500000,ES1,Real Madrid
+243714,2021,27,Kingsley Coman,France,France,1996/6/13,Attack,Right,180,54000000,58500000,L1,Fc Bayern Munchen
+413112,2021,162,Aurelien Tchouameni,France,France,2000/1/27,Midfield,Right,188,54000000,54000000,FR1,As Monaco
+339808,2021,5,Theo Hernandez,France,France,1997/10/6,Defender,Left,184,49500000,49500000,IT1,Ac Mailand
+350219,2021,6195,Fabian Ruiz,Spain,Spain,1996/4/3,Midfield,Left,189,49500000,54000000,IT1,Ssc Neapel
+139208,2021,31,Virgil Van Dijk,Netherlands,Netherlands,1991/7/8,Defender,Right,193,49500000,90000000,GB1,Fc Liverpool
+249565,2021,1003,Youri Tielemans,Belgium,Belgium,1997/5/7,Midfield,Right,176,49500000,49500000,GB1,Leicester City
+640428,2021,418,Eduardo Camavinga,Angola,France,2002/11/10,Midfield,Left,182,49500000,54000000,ES1,Real Madrid
+59016,2021,418,David Alaba,Austria,Austria,1992/6/24,Defender,Left,180,49500000,58500000,ES1,Real Madrid
+580195,2021,27,Jamal Musiala,Germany,Germany,2003/2/26,Attack,Right,183,49500000,49500000,L1,Fc Bayern Munchen
+546543,2021,294,Darwin Nunez,Uruguay,Uruguay,1999/6/24,Attack,Right,187,49500000,49500000,PO1,Benfica Lissabon
+395516,2021,15,Moussa Diaby,France,France,1999/7/7,Attack,Left,170,49500000,49500000,L1,Bayer 04 Leverkusen
+331726,2021,12,Tammy Abraham,England,England,1997/10/2,Attack,Right,194,45000000,45000000,IT1,As Rom
+28003,2021,583,Lionel Messi,Argentina,Argentina,1987/6/24,Attack,Left,170,45000000,162000000,FR1,Fc Paris Saint Germain
+102558,2021,583,Marco Verratti,Italy,Italy,1992/11/5,Midfield,Right,165,45000000,67500000,FR1,Fc Paris Saint Germain
+315858,2021,583,Gianluigi Donnarumma,Italy,Italy,1999/2/25,Goalkeeper,Right,196,45000000,58500000,FR1,Fc Paris Saint Germain
+397033,2021,5,Sandro Tonali,Italy,Italy,2000/5/8,Midfield,Right,181,45000000,45000000,IT1,Ac Mailand
+303254,2021,5,Fikayo Tomori,Canada,England,1997/12/19,Defender,Right,185,45000000,45000000,IT1,Ac Mailand
+351749,2021,399,Kalvin Phillips,England,England,1995/12/2,Midfield,Right,178,45000000,45000000,GB1,Leeds United
+378710,2021,29,Richarlison,Brazil,Brazil,1997/5/10,Attack,Right,184,45000000,58500000,GB1,Fc Everton
+105470,2021,31,Alisson,Brazil,Brazil,1992/10/2,Goalkeeper,Right,191,45000000,81000000,GB1,Fc Liverpool
+363205,2021,281,Gabriel Jesus,Brazil,Brazil,1997/4/3,Attack,Right,175,45000000,72000000,GB1,Manchester City
+338424,2021,681,Mikel Merino,Spain,Spain,1996/6/22,Midfield,Left,189,45000000,45000000,ES1,Real Sociedad San Sebastian
+372246,2021,1049,Carlos Soler,Spain,Spain,1997/1/2,Midfield,Right,180,45000000,45000000,ES1,Fc Valencia
+294057,2021,1003,James Maddison,England,England,1996/11/23,Attack,Right,175,45000000,54000000,GB1,Leicester City
+250845,2021,13,Jose Maria Gimenez,Uruguay,Uruguay,1995/1/20,Defender,Right,185,45000000,63000000,ES1,Atletico Madrid
+480267,2021,131,Ronald Araujo,Uruguay,Uruguay,1999/3/7,Defender,Right,188,45000000,45000000,ES1,Fc Barcelona
+38253,2021,27,Robert Lewandowski,Poland,Poland,1988/8/21,Attack,Right,185,45000000,81000000,L1,Fc Bayern Munchen
+355861,2021,1050,Arnaut Danjuma,Nigeria,Netherlands,1997/1/31,Attack,Right,178,45000000,45000000,ES1,Fc Villarreal
+399776,2021,1050,Pau Torres,Spain,Spain,1997/1/16,Defender,Left,191,45000000,45000000,ES1,Fc Villarreal
+281963,2021,27,Lucas Hernandez,France,France,1996/2/14,Defender,Left,184,45000000,63000000,L1,Fc Bayern Munchen
+122153,2021,985,Paul Pogba,France,France,1993/3/15,Midfield,Both,191,43200000,90000000,GB1,Manchester United
+164770,2021,985,Raphael Varane,France,France,1993/4/25,Defender,Right,191,43200000,72000000,GB1,Manchester United
+355915,2021,148,Cristian Romero,Argentina,Argentina,1998/4/27,Defender,Right,185,43200000,43200000,GB1,Tottenham Hotspur
+286297,2021,12,Lorenzo Pellegrini,Italy,Italy,1996/6/19,Attack,Both,186,40500000,40500000,IT1,As Rom
+294808,2021,5,Franck Kessie,Cote d'Ivoire,Cote d'Ivoire,1996/12/19,Midfield,Right,183,40500000,49500000,IT1,Ac Mailand
+411295,2021,399,Raphinha,Brazil,Brazil,1996/12/14,Attack,Left,175,40500000,40500000,GB1,Leeds United
+398184,2021,281,Ferran Torres,Spain,Spain,2000/2/29,Attack,Right,184,40500000,45000000,GB1,Manchester City
+176553,2021,281,Aymeric Laporte,France,Spain,1994/5/27,Defender,Left,189,40500000,67500000,GB1,Manchester City
+238223,2021,281,Ederson,Brazil,Brazil,1993/8/17,Goalkeeper,Left,188,40500000,63000000,GB1,Manchester City
+316264,2021,11,Martin Odegaard,Norway,Norway,1998/12/17,Attack,Left,178,40500000,45000000,GB1,Fc Arsenal
+266807,2021,13,Angel Correa,Argentina,Argentina,1995/3/9,Attack,Right,171,40500000,40500000,ES1,Atletico Madrid
+282411,2021,13,Marcos Llorente,Spain,Spain,1995/1/30,Midfield,Right,184,40500000,72000000,ES1,Atletico Madrid
+121483,2021,13,Jan Oblak,Slovenia,Slovenia,1993/1/7,Goalkeeper,Right,188,40500000,90000000,ES1,Atletico Madrid
+283628,2021,379,Tomas Soucek,Czech Republic,Czech Republic,1995/2/27,Midfield,Right,192,40500000,40500000,GB1,West Ham United
+344695,2021,27,Dayot Upamecano,France,France,1998/10/27,Defender,Right,186,40500000,54000000,L1,Fc Bayern Munchen
+293385,2021,23826,Dani Olmo,Spain,Spain,1998/5/7,Attack,Right,179,40500000,45000000,L1,Rasenballsport Leipzig
+533738,2021,1082,Jonathan David,United States,Canada,2000/1/14,Attack,Both,180,40500000,45000000,FR1,Losc Lille
+306024,2021,29,Dominic Calvert Lewin,England,England,1997/3/16,Attack,Right,189,37800000,40500000,GB1,Fc Everton
+315779,2021,631,Christian Pulisic,United States,United States,1998/9/18,Attack,Right,177,37800000,54000000,GB1,Fc Chelsea
+51471,2021,631,Mateo Kovacic,Austria,Croatia,1994/5/6,Midfield,Right,176,37800000,40500000,GB1,Fc Chelsea
+504215,2021,16,Giovanni Reyna,England,United States,2002/11/13,Attack,Right,185,37800000,37800000,L1,Borussia Dortmund
+418659,2021,417,Amine Gouiri,France,France,2000/2/16,Attack,Right,180,37800000,45000000,FR1,Ogc Nizza
+616341,2021,583,Nuno Mendes,Portugal,Portugal,2002/6/19,Defender,Left,176,36000000,36000000,FR1,Fc Paris Saint Germain
+282041,2021,583,Presnel Kimpembe,France,France,1995/8/13,Defender,Left,183,36000000,36000000,FR1,Fc Paris Saint Germain
+431755,2021,506,Dejan Kulusevski,Sweden,Sweden,2000/4/25,Attack,Left,186,36000000,40500000,IT1,Juventus Turin
+156617,2021,46,Marcelo Brozovic,Croatia,Croatia,1992/11/16,Midfield,Both,181,36000000,54000000,IT1,Inter Mailand
+181136,2021,6195,Piotr Zielinski,Poland,Poland,1994/5/20,Attack,Both,180,36000000,45000000,IT1,Ssc Neapel
+145988,2021,873,Wilfried Zaha,Cote d'Ivoire,Cote d'Ivoire,1992/11/10,Attack,Right,180,36000000,49500000,GB1,Crystal Palace
+225161,2021,543,Ruben Neves,Portugal,Portugal,1997/3/13,Midfield,Right,180,36000000,45000000,GB1,Wolverhampton Wanderers
+357119,2021,31,Ibrahima Konate,France,France,1999/5/25,Defender,Right,194,36000000,40500000,GB1,Fc Liverpool
+225083,2021,631,Ngolo Kante,France,France,1991/3/29,Midfield,Right,168,36000000,90000000,GB1,Fc Chelsea
+102017,2021,631,Jorginho,Brazil,Italy,1991/12/20,Midfield,Right,180,36000000,58500000,GB1,Fc Chelsea
+86202,2021,631,Antonio Rudiger,Germany,Germany,1993/3/3,Defender,Right,190,36000000,45000000,GB1,Fc Chelsea
+655488,2021,11,Gabriel Martinelli,Brazil,Brazil,2001/6/18,Attack,Right,176,36000000,36000000,GB1,Fc Arsenal
+392765,2021,11,Emile Smith Rowe,England,England,2000/7/28,Attack,Right,182,36000000,36000000,GB1,Fc Arsenal
+335721,2021,11,Ben White,England,England,1997/10/8,Defender,Right,186,36000000,36000000,GB1,Fc Arsenal
+329145,2021,368,Diego Carlos,Brazil,Brazil,1993/3/15,Defender,Right,185,36000000,45000000,ES1,Fc Sevilla
+167799,2021,148,Pierre Emile Hojbjerg,Denmark,Denmark,1995/8/5,Midfield,Right,185,36000000,36000000,GB1,Tottenham Hotspur
+225122,2021,1049,Goncalo Guedes,Portugal,Portugal,1996/11/29,Attack,Right,179,36000000,36000000,ES1,Fc Valencia
+221322,2021,1049,Jose Gaya,Spain,Spain,1995/5/25,Defender,Left,172,36000000,45000000,ES1,Fc Valencia
+320141,2021,1003,Caglar Soyuncu,Turkey,Turkey,1996/5/23,Defender,Right,187,36000000,40500000,GB1,Leicester City
+475411,2021,1003,Wesley Fofana,France,France,2000/12/17,Defender,Right,190,36000000,36000000,GB1,Leicester City
+140776,2021,13,Yannick Carrasco,Belgium,Belgium,1993/9/4,Attack,Right,181,36000000,36000000,ES1,Atletico Madrid
+205562,2021,13,Thomas Lemar,Guadeloupe,France,1995/11/12,Attack,Left,171,36000000,63000000,ES1,Atletico Madrid
+255901,2021,13,Rodrigo De Paul,Argentina,Argentina,1994/5/24,Midfield,Right,180,36000000,36000000,ES1,Atletico Madrid
+296622,2021,418,Marco Asensio,Spain,Spain,1996/1/21,Attack,Left,182,36000000,81000000,ES1,Real Madrid
+16306,2021,418,Casemiro,Brazil,Brazil,1992/2/23,Midfield,Right,185,36000000,72000000,ES1,Real Madrid
+291417,2021,418,Ferland Mendy,France,France,1995/6/8,Defender,Left,180,36000000,45000000,ES1,Real Madrid
+177467,2021,1050,Gerard Moreno,Spain,Spain,1992/4/7,Attack,Left,180,36000000,36000000,ES1,Fc Villarreal
+568157,2021,1050,Yeremy Pino,Spain,Spain,2002/10/20,Attack,Right,172,36000000,36000000,ES1,Fc Villarreal
+203496,2021,150,Nabil Fekir,France,France,1993/7/18,Attack,Left,173,36000000,63000000,ES1,Real Betis Sevilla
+242086,2021,15,Patrik Schick,Czech Republic,Czech Republic,1996/1/24,Attack,Left,191,36000000,36000000,L1,Bayer 04 Leverkusen
+564545,2021,15,Edmond Tapsoba,Burkina Faso,Burkina Faso,1999/2/2,Defender,Right,194,36000000,36000000,L1,Bayer 04 Leverkusen
+183288,2021,985,Luke Shaw,England,England,1995/7/12,Defender,Left,178,34200000,37800000,GB1,Manchester United
+177907,2021,985,Harry Maguire,England,England,1993/3/5,Defender,Right,194,34200000,63000000,GB1,Manchester United
+316125,2021,631,Ben Chilwell,England,England,1996/12/21,Defender,Left,180,34200000,45000000,GB1,Fc Chelsea
+230784,2021,11,Thomas Partey,Ghana,Ghana,1993/6/13,Midfield,Right,185,34200000,45000000,GB1,Fc Arsenal
+435338,2021,11,Gabriel Magalhaes,Brazil,Brazil,1997/12/19,Defender,Left,190,34200000,34200000,GB1,Fc Arsenal
+198008,2021,23826,Andre Silva,Portugal,Portugal,1995/11/6,Attack,Right,185,34200000,40500000,L1,Rasenballsport Leipzig
+177843,2021,6574,Domenico Berardi,Italy,Italy,1994/8/1,Attack,Left,183,31500000,31500000,IT1,Us Sassuolo
+206050,2021,506,Paulo Dybala,Argentina,Argentina,1993/11/15,Attack,Left,177,31500000,99000000,IT1,Juventus Turin
+182906,2021,5,Mike Maignan,French Guiana,France,1995/7/3,Goalkeeper,Right,191,31500000,31500000,IT1,Ac Mailand
+265088,2021,506,Manuel Locatelli,Italy,Italy,1998/1/8,Midfield,Right,185,31500000,31500000,IT1,Juventus Turin
+126414,2021,46,Hakan Calhanoglu,Germany,Turkey,1994/2/8,Midfield,Right,178,31500000,31500000,IT1,Inter Mailand
+93128,2021,6195,Kalidou Koulibaly,France,Senegal,1991/6/20,Defender,Right,186,31500000,67500000,IT1,Ssc Neapel
+410425,2021,1237,Yves Bissouma,Cote d'Ivoire,Mali,1996/8/30,Midfield,Right,182,31500000,31500000,GB1,Brighton Amp Hove Albion
+251664,2021,1148,Ivan Toney,England,England,1996/3/16,Attack,Right,185,31500000,31500000,GB1,Fc Brentford
+487465,2021,543,Pedro Neto,Portugal,Portugal,2000/3/9,Attack,Left,172,31500000,31500000,GB1,Wolverhampton Wanderers
+324358,2021,405,Ollie Watkins,England,England,1995/12/30,Attack,Right,180,31500000,31500000,GB1,Aston Villa
+321247,2021,405,Emiliano Buendia,Argentina,Argentina,1996/12/25,Attack,Right,172,31500000,31500000,GB1,Aston Villa
+447661,2021,405,Douglas Luiz,Brazil,Brazil,1998/5/9,Midfield,Right,177,31500000,31500000,GB1,Aston Villa
+170527,2021,631,Timo Werner,Germany,Germany,1996/3/6,Attack,Right,180,31500000,72000000,GB1,Fc Chelsea
+171424,2021,281,Riyad Mahrez,France,Algeria,1991/2/21,Attack,Left,179,31500000,54000000,GB1,Manchester City
+196948,2021,631,Andreas Christensen,Denmark,Denmark,1996/4/10,Defender,Right,187,31500000,36000000,GB1,Fc Chelsea
+167850,2021,131,Memphis Depay,Netherlands,Netherlands,1994/2/13,Attack,Right,176,31500000,49500000,ES1,Fc Barcelona
+125781,2021,131,Antoine Griezmann,France,France,1991/3/21,Attack,Left,176,31500000,135000000,ES1,Fc Barcelona
+314875,2021,379,Jarrod Bowen,England,England,1996/12/20,Attack,Left,182,31500000,31500000,GB1,West Ham United
+166601,2021,27,Niklas Sule,Germany,Germany,1995/9/3,Defender,Right,195,31500000,54000000,L1,Fc Bayern Munchen
+170986,2021,16,Raphael Guerreiro,France,Portugal,1993/12/22,Defender,Left,170,31500000,36000000,L1,Borussia Dortmund
+601883,2021,336,Matheus Nunes,Brazil,Portugal,1998/8/27,Midfield,Right,183,31500000,31500000,PO1,Sporting Lissabon
+181375,2021,610,Sebastien Haller,France,Cote d'Ivoire,1994/6/22,Attack,Right,190,31500000,40500000,NL1,Ajax Amsterdam
+602105,2021,610,Antony,Brazil,Brazil,2000/2/24,Attack,Left,172,31500000,31500000,NL1,Ajax Amsterdam
+478573,2021,610,Ryan Gravenberch,Netherlands,Netherlands,2002/5/16,Midfield,Right,190,31500000,31500000,NL1,Ajax Amsterdam
+420243,2021,610,Jurrien Timber,Netherlands,Netherlands,2001/6/17,Defender,Right,182,31500000,31500000,NL1,Ajax Amsterdam
+444523,2021,1041,Lucas Paqueta,Brazil,Brazil,1997/8/27,Attack,Left,180,31500000,31500000,FR1,Olympique Lyon
+392085,2021,12,Nicolo Zaniolo,Italy,Italy,1999/7/2,Attack,Left,190,29700000,49500000,IT1,As Rom
+351816,2021,5,Ismael Bennacer,France,Algeria,1997/12/1,Midfield,Left,175,29700000,36000000,IT1,Ac Mailand
+181579,2021,180,James Ward Prowse,England,England,1994/11/1,Midfield,Right,177,28800000,28800000,GB1,Fc Southampton
+253677,2021,405,Tyrone Mings,England,England,1993/3/13,Defender,Left,196,28800000,28800000,GB1,Aston Villa
+111873,2021,405,Emiliano Martinez,Argentina,Argentina,1992/9/2,Goalkeeper,Right,195,28800000,31500000,GB1,Aston Villa
+131789,2021,31,Roberto Firmino,Brazil,Brazil,1991/10/2,Attack,Right,181,28800000,81000000,GB1,Fc Liverpool
+315969,2021,985,Scott Mctominay,England,Scotland,1996/12/8,Midfield,Right,191,28800000,31500000,GB1,Manchester United
+442531,2021,631,Edouard Mendy,France,Senegal,1992/3/1,Goalkeeper,Right,194,28800000,28800000,GB1,Fc Chelsea
+300716,2021,11,Kieran Tierney,Isle of Man,Scotland,1997/6/5,Defender,Left,180,28800000,28800000,GB1,Fc Arsenal
+272642,2021,762,Allan Saint Maximin,France,France,1997/3/12,Attack,Right,173,28800000,28800000,GB1,Newcastle United
+398065,2021,1003,Harvey Barnes,England,England,1997/12/9,Midfield,Right,182,28800000,31500000,GB1,Leicester City
+371149,2021,24,Evan Ndicka,France,France,1999/8/20,Defender,Left,192,28800000,28800000,L1,Eintracht Frankfurt
+480762,2021,610,Lisandro Martinez,Argentina,Argentina,1998/1/18,Defender,Left,175,28800000,28800000,NL1,Ajax Amsterdam
+315867,2021,6574,Gianluca Scamacca,Italy,Italy,1999/1/1,Attack,Right,195,27000000,27000000,IT1,Us Sassuolo
+516716,2021,416,Bremer,Brazil,Brazil,1997/3/18,Defender,Right,188,27000000,27000000,IT1,Fc Turin
+8198,2021,506,Cristiano Ronaldo,Portugal,Portugal,1985/2/5,Attack,Right,187,27000000,108000000,IT1,Juventus Turin
+316889,2021,6195,Hirving Lozano,Mexico,Mexico,1995/7/30,Attack,Right,175,27000000,40500000,IT1,Ssc Neapel
+354361,2021,6195,Andre Zambo Anguissa,Cameroon,Cameroon,1995/11/16,Midfield,Right,184,27000000,27000000,IT1,Ssc Neapel
+392757,2021,873,Marc Guehi,Cote d'Ivoire,England,2000/7/13,Defender,Right,182,27000000,27000000,GB1,Crystal Palace
+168157,2021,543,Leander Dendoncker,Belgium,Belgium,1995/4/15,Midfield,Right,188,27000000,28800000,GB1,Wolverhampton Wanderers
+387626,2021,405,Leon Bailey,Jamaica,Jamaica,1997/8/9,Attack,Left,178,27000000,40500000,GB1,Aston Villa
+193116,2021,405,John Mcginn,Scotland,Scotland,1994/10/18,Midfield,Left,178,27000000,27000000,GB1,Aston Villa
+126664,2021,405,Lucas Digne,France,France,1993/7/20,Defender,Left,178,27000000,31500000,GB1,Aston Villa
+157509,2021,631,Kurt Zouma,France,France,1994/10/27,Defender,Right,190,27000000,31500000,GB1,Fc Chelsea
+520624,2021,762,Bruno Guimaraes,Brazil,Brazil,1997/11/16,Midfield,Right,182,27000000,31500000,GB1,Newcastle United
+450936,2021,148,Tanguy Ndombele,France,France,1996/12/28,Midfield,Right,181,27000000,58500000,GB1,Tottenham Hotspur
+423440,2021,681,Martin Zubimendi,Spain,Spain,1999/2/2,Midfield,Right,181,27000000,27000000,ES1,Real Sociedad San Sebastian
+349066,2021,681,Alexander Isak,Sweden,Sweden,1999/9/21,Attack,Right,192,27000000,36000000,ES1,Real Sociedad San Sebastian
+351809,2021,681,Robin Le Normand,France,France,1996/11/11,Defender,Right,187,27000000,27000000,ES1,Real Sociedad San Sebastian
+476352,2021,13,Renan Lodi,Brazil,Brazil,1998/4/8,Defender,Left,173,27000000,45000000,ES1,Atletico Madrid
+288230,2021,131,Ousmane Dembele,France,France,1997/5/15,Attack,Both,178,27000000,108000000,ES1,Fc Barcelona
+517894,2021,44,Matheus Cunha,Brazil,Brazil,1999/5/27,Attack,Right,184,27000000,28800000,L1,Hertha Bsc
+74857,2021,131,Marc Andre Ter Stegen,Germany,Germany,1992/4/30,Goalkeeper,Right,187,27000000,81000000,ES1,Fc Barcelona
+18922,2021,418,Karim Benzema,France,France,1987/12/19,Attack,Right,185,27000000,54000000,ES1,Real Madrid
+353366,2021,27,Benjamin Pavard,France,France,1996/3/28,Defender,Right,186,27000000,40500000,L1,Fc Bayern Munchen
+277179,2021,23826,Angelino,Spain,Spain,1997/1/4,Midfield,Left,171,27000000,31500000,L1,Rasenballsport Leipzig
+475959,2021,23826,Josko Gvardiol,Croatia,Croatia,2002/1/23,Defender,Left,185,27000000,27000000,L1,Rasenballsport Leipzig
+435772,2021,2282,Charles De Ketelaere,Belgium,Belgium,2001/3/10,Attack,Left,192,27000000,27000000,BE1,Fc Brugge
+284730,2021,16,Manuel Akanji,Switzerland,Switzerland,1995/7/19,Defender,Right,188,27000000,36000000,L1,Borussia Dortmund
+426620,2021,336,Pedro Goncalves,Portugal,Portugal,1998/6/28,Attack,Right,173,27000000,34200000,PO1,Sporting Lissabon
+231289,2021,720,Otavio,Brazil,Portugal,1995/2/9,Midfield,Right,172,27000000,27000000,PO1,Fc Porto
+487469,2021,720,Vitinha,Portugal,Portugal,2000/2/13,Midfield,Right,172,27000000,27000000,PO1,Fc Porto
+434675,2021,383,Cody Gakpo,Netherlands,Netherlands,1999/5/7,Attack,Right,189,27000000,27000000,NL1,Psv Eindhoven
+495666,2021,244,William Saliba,France,France,2001/3/24,Defender,Right,192,27000000,27000000,FR1,Olympique Marseille
+463603,2021,162,Benoit Badiashile,France,France,2001/3/26,Defender,Left,194,27000000,27000000,FR1,As Monaco
+361093,2021,1082,Sven Botman,Netherlands,Netherlands,2000/1/12,Defender,Left,195,27000000,27000000,FR1,Losc Lille
+167727,2021,416,Andrea Belotti,Italy,Italy,1993/12/20,Attack,Right,181,25200000,36000000,IT1,Fc Turin
+405885,2021,6574,Giacomo Raspadori,Italy,Italy,2000/2/18,Attack,Both,172,25200000,25200000,IT1,Us Sassuolo
+73794,2021,800,Duvan Zapata,Colombia,Colombia,1991/4/1,Attack,Right,189,25200000,40500000,IT1,Atalanta Bergamo
+205938,2021,800,Mario Pasalic,Germany,Croatia,1995/2/9,Attack,Right,188,25200000,25200000,IT1,Atalanta Bergamo
+207877,2021,800,Ruslan Malinovskyi,Ukraine,Ukraine,1993/5/4,Attack,Left,181,25200000,27000000,IT1,Atalanta Bergamo
+273132,2021,800,Robin Gosens,Germany,Germany,1994/7/5,Midfield,Left,183,25200000,31500000,IT1,Atalanta Bergamo
+128220,2021,398,Luis Alberto,Spain,Spain,1992/9/28,Midfield,Right,183,25200000,49500000,IT1,Lazio Rom
+585949,2021,5,Pierre Kalulu,France,France,2000/6/5,Defender,Right,179,25200000,25200000,IT1,Ac Mailand
+354362,2021,506,Rodrigo Bentancur,Uruguay,Uruguay,1997/6/25,Midfield,Right,187,25200000,45000000,IT1,Juventus Turin
+111196,2021,46,Stefan De Vrij,Netherlands,Netherlands,1992/2/5,Defender,Right,189,25200000,54000000,IT1,Inter Mailand
+433188,2021,31,Curtis Jones,England,England,2001/1/30,Midfield,Right,185,25200000,27000000,GB1,Fc Liverpool
+186590,2021,281,John Stones,England,England,1994/5/28,Defender,Right,188,25200000,54000000,GB1,Manchester City
+217111,2021,631,Hakim Ziyech,Netherlands,Morocco,1993/3/19,Attack,Left,181,25200000,45000000,GB1,Fc Chelsea
+427568,2021,11,Aaron Ramsdale,England,England,1998/5/14,Goalkeeper,Right,190,25200000,25200000,GB1,Fc Arsenal
+175722,2021,148,Eric Dier,England,England,1994/1/15,Defender,Right,188,25200000,36000000,GB1,Tottenham Hotspur
+341429,2021,148,Davinson Sanchez,Colombia,Colombia,1996/6/12,Defender,Right,187,25200000,54000000,GB1,Tottenham Hotspur
+262226,2021,1003,Timothy Castagne,Belgium,Belgium,1995/12/5,Defender,Right,185,25200000,25200000,GB1,Leicester City
+388198,2021,60,Nico Schlotterbeck,Germany,Germany,1999/12/1,Defender,Left,191,25200000,25200000,L1,Sc Freiburg
+451276,2021,23826,Dominik Szoboszlai,Hungary,Hungary,2000/10/25,Attack,Right,187,25200000,25200000,L1,Rasenballsport Leipzig
+258027,2021,1082,Renato Sanches,Portugal,Portugal,1997/8/18,Midfield,Right,176,25200000,27000000,FR1,Losc Lille
+709726,2021,1421,Hugo Ekitike,France,France,2002/6/20,Attack,Right,189,25200000,25200000,FR1,Stade Reims
+105521,2021,398,Ciro Immobile,Italy,Italy,1990/2/20,Attack,Right,185,24300000,45000000,IT1,Lazio Rom
+334526,2021,506,Denis Zakaria,Switzerland,Switzerland,1996/11/20,Midfield,Right,191,24300000,40500000,IT1,Juventus Turin
+410225,2021,1010,Ismaila Sarr,Senegal,Senegal,1998/2/25,Attack,Right,185,24300000,27000000,GB1,Fc Watford
+223979,2021,82,Xaver Schlager,Austria,Austria,1997/9/28,Midfield,Left,174,24300000,24300000,L1,Vfl Wolfsburg
+326029,2021,16,Donyell Malen,Netherlands,Netherlands,1999/1/19,Attack,Right,178,24300000,27000000,L1,Borussia Dortmund
+244275,2017,46,Gabriel Barbosa,Brazil,Brazil,1996/8/30,Attack,Left,178,23400000,23400000,IT1,Inter Mailand
+223967,2021,23826,Konrad Laimer,Austria,Austria,1997/5/27,Midfield,Right,180,23400000,27000000,L1,Rasenballsport Leipzig
+360518,2021,800,Teun Koopmeiners,Netherlands,Netherlands,1998/2/28,Midfield,Left,183,22500000,22500000,IT1,Atalanta Bergamo
+340879,2021,800,Merih Demiral,Turkey,Turkey,1998/3/5,Defender,Right,190,22500000,27000000,IT1,Atalanta Bergamo
+74230,2021,583,Pablo Sarabia,Spain,Spain,1992/5/11,Attack,Left,174,22500000,36000000,FR1,Fc Paris Saint Germain
+128223,2021,506,Alvaro Morata,Spain,Spain,1992/10/23,Attack,Right,187,22500000,58500000,IT1,Juventus Turin
+262523,2021,5,Davide Calabria,Italy,Italy,1996/12/6,Defender,Right,176,22500000,22500000,IT1,Ac Mailand
+332697,2021,506,Weston Mckennie,United States,United States,1998/8/28,Midfield,Right,177,22500000,22500000,IT1,Juventus Turin
+321528,2021,46,Denzel Dumfries,Netherlands,Netherlands,1996/4/18,Midfield,Right,188,22500000,22500000,IT1,Inter Mailand
+169880,2021,6195,Giovanni Di Lorenzo,Italy,Italy,1993/8/4,Defender,Right,183,22500000,22500000,IT1,Ssc Neapel
+133964,2021,6195,Lorenzo Insigne,Italy,Italy,1991/6/4,Attack,Right,163,22500000,67500000,IT1,Ssc Neapel
+257732,2021,6195,Amir Rrahmani,Yugoslavia (Republic),Kosovo,1994/2/24,Defender,Both,192,22500000,22500000,IT1,Ssc Neapel
+264372,2021,338,Viktor Tsygankov,Israel,Ukraine,1997/11/15,Attack,Left,178,22500000,22500000,UKR1,Dynamo Kiew
+488362,2021,873,Conor Gallagher,England,England,2000/2/6,Midfield,Right,182,22500000,22500000,GB1,Crystal Palace
+231572,2021,543,Nelson Semedo,Portugal,Portugal,1993/11/16,Defender,Right,177,22500000,36000000,GB1,Wolverhampton Wanderers
+128901,2021,543,Conor Coady,England,England,1993/2/25,Defender,Right,185,22500000,22500000,GB1,Wolverhampton Wanderers
+503981,2021,180,Tino Livramento,England,England,2002/11/12,Defender,Right,173,22500000,22500000,GB1,Fc Southampton
+288255,2021,29,Donny Van De Beek,Netherlands,Netherlands,1997/4/18,Midfield,Right,184,22500000,49500000,GB1,Fc Everton
+127187,2021,29,Abdoulaye Doucoure,France,Mali,1993/1/1,Midfield,Right,183,22500000,22500000,GB1,Fc Everton
+130164,2021,29,Jordan Pickford,England,England,1994/3/7,Goalkeeper,Left,185,22500000,36000000,GB1,Fc Everton
+413403,2021,405,Ezri Konsa,England,England,1997/10/23,Defender,Right,183,22500000,22500000,GB1,Aston Villa
+392768,2021,631,Callum Hudson Odoi,England,England,2000/11/7,Attack,Right,177,22500000,31500000,GB1,Fc Chelsea
+302215,2021,31,Naby Keita,Guinea,Guinea,1995/2/10,Midfield,Right,172,22500000,58500000,GB1,Fc Liverpool
+53622,2021,281,Ilkay Gundogan,Germany,Germany,1990/10/24,Midfield,Right,180,22500000,45000000,GB1,Manchester City
+203853,2021,281,Oleksandr Zinchenko,Ukraine,Ukraine,1996/12/15,Defender,Left,175,22500000,27000000,GB1,Manchester City
+177476,2021,281,Nathan Ake,Netherlands,Netherlands,1995/2/18,Defender,Left,180,22500000,36000000,GB1,Manchester City
+477758,2021,985,Aaron Wan Bissaka,England,England,1997/11/26,Defender,Right,183,22500000,36000000,GB1,Manchester United
+148928,2021,631,Saul Niguez,Spain,Spain,1994/11/21,Midfield,Left,184,22500000,81000000,GB1,Fc Chelsea
+331560,2021,11,Takehiro Tomiyasu,Japan,Japan,1998/11/5,Defender,Right,188,22500000,22500000,GB1,Fc Arsenal
+343052,2021,11,Nicolas Pepe,France,Cote d'Ivoire,1995/5/29,Attack,Left,183,22500000,67500000,GB1,Fc Arsenal
+433049,2021,368,Youssef En Nesyri,Morocco,Morocco,1997/6/1,Attack,Left,189,22500000,36000000,ES1,Fc Sevilla
+189441,2021,368,Lucas Ocampos,Argentina,Argentina,1994/7/11,Attack,Both,187,22500000,45000000,ES1,Fc Sevilla
+282429,2021,148,Sergio Reguilon,Spain,Spain,1996/12/16,Defender,Left,178,22500000,25200000,GB1,Tottenham Hotspur
+476344,2021,148,Emerson Royal,Brazil,Brazil,1999/1/14,Defender,Right,183,22500000,22500000,GB1,Tottenham Hotspur
+251106,2021,3709,Enes Unal,Turkey,Turkey,1997/5/10,Attack,Right,187,22500000,22500000,ES1,Fc Getafe
+255508,2021,621,Inaki Williams,Spain,Ghana,1994/6/15,Attack,Right,186,22500000,45000000,ES1,Athletic Bilbao
+158863,2021,621,Inigo Martinez,Spain,Spain,1991/5/17,Defender,Left,182,22500000,28800000,ES1,Athletic Bilbao
+262396,2021,621,Unai Simon,Spain,Spain,1997/6/11,Goalkeeper,Right,190,22500000,27000000,ES1,Athletic Bilbao
+162038,2021,714,Raul De Tomas,Spain,Spain,1994/10/17,Attack,Right,180,22500000,22500000,ES1,Espanyol Barcelona
+413220,2021,1003,James Justin,England,England,1998/2/23,Defender,Right,183,22500000,22500000,GB1,Leicester City
+344605,2021,1003,Boubakary Soumare,France,France,1999/2/27,Midfield,Right,188,22500000,25200000,GB1,Leicester City
+74229,2021,13,Koke,Spain,Spain,1992/1/8,Midfield,Right,176,22500000,63000000,ES1,Atletico Madrid
+290532,2021,379,Said Benrahma,Algeria,Algeria,1995/8/10,Attack,Right,172,22500000,22500000,GB1,West Ham United
+293200,2021,379,Nikola Vlasic,Croatia,Croatia,1997/10/4,Attack,Right,178,22500000,27000000,GB1,West Ham United
+58358,2021,27,Thomas Muller,Germany,Germany,1989/9/13,Attack,Right,185,22500000,67500000,L1,Fc Bayern Munchen
+480763,2021,1050,Juan Foyth,Argentina,Argentina,1998/1/12,Defender,Right,187,22500000,22500000,ES1,Fc Villarreal
+348026,2021,23826,Nordi Mukiele,France,France,1997/11/1,Defender,Right,187,22500000,22500000,L1,Rasenballsport Leipzig
+187492,2021,16,Julian Brandt,Germany,Germany,1996/5/2,Attack,Right,185,22500000,45000000,L1,Borussia Dortmund
+342385,2021,150,Guido Rodriguez,Argentina,Argentina,1994/4/12,Midfield,Right,185,22500000,22500000,ES1,Real Betis Sevilla
+553875,2021,336,Pedro Porro,Spain,Spain,1999/9/13,Defender,Right,176,22500000,22500000,PO1,Sporting Lissabon
+257455,2021,336,Joao Palhinha,Portugal,Portugal,1995/7/9,Midfield,Right,190,22500000,23400000,PO1,Sporting Lissabon
+537598,2021,720,Fabio Vieira,Portugal,Portugal,2000/5/30,Attack,Left,170,22500000,22500000,PO1,Fc Porto
+357153,2021,720,Diogo Costa,Switzerland,Portugal,1999/9/19,Goalkeeper,Right,186,22500000,22500000,PO1,Fc Porto
+180337,2021,15,Sardar Azmoun,Iran,Iran,1995/1/1,Attack,Both,186,22500000,22500000,L1,Bayer 04 Leverkusen
+512385,2021,234,Luis Sinisterra,Colombia,Colombia,1999/6/17,Attack,Right,172,22500000,22500000,NL1,Feyenoord Rotterdam
+196357,2021,15,Jonathan Tah,Germany,Germany,1996/2/11,Defender,Right,195,22500000,36000000,L1,Bayer 04 Leverkusen
+146854,2021,162,Wissam Ben Yedder,France,France,1990/8/12,Attack,Both,170,22500000,45000000,FR1,As Monaco
+263918,2021,162,Aleksandr Golovin,Russia,Russia,1996/5/30,Attack,Right,180,22500000,27000000,FR1,As Monaco
+465830,2021,244,Matteo Guendouzi,France,France,1999/4/14,Midfield,Right,185,22500000,45000000,FR1,Olympique Marseille
+394327,2021,244,Boubacar Kamara,France,France,1999/11/23,Midfield,Right,184,22500000,33299999,FR1,Olympique Marseille
+442891,2021,273,Martin Terrier,France,France,1997/3/4,Attack,Right,184,22500000,22500000,FR1,Fc Stade Rennes
+395693,2021,1041,Houssem Aouar,France,France,1998/6/30,Midfield,Right,175,22500000,49500000,FR1,Olympique Lyon
+395237,2021,1041,Maxence Caqueret,France,France,2000/2/15,Midfield,Right,174,22500000,22500000,FR1,Olympique Lyon
+182893,2021,826,Seko Fofana,France,Cote d'Ivoire,1995/5/7,Midfield,Right,183,22500000,22500000,FR1,Rc Lens
+364135,2021,506,Moise Kean,Italy,Italy,2000/2/28,Attack,Right,183,21600000,36000000,IT1,Juventus Turin
+486031,2021,430,Nicolas Gonzalez,Argentina,Argentina,1998/4/6,Attack,Left,180,21600000,22500000,IT1,Ac Florenz
+400489,2021,6195,Eljif Elmas,Macedonia,North Macedonia,1999/9/24,Attack,Right,182,21600000,21600000,IT1,Ssc Neapel
+161011,2021,24,Filip Kostic,Yugoslavia (Republic),Serbia,1992/11/1,Midfield,Left,184,21600000,36000000,L1,Eintracht Frankfurt
+402008,2021,23826,Amadou Haidara,Mali,Mali,1998/1/31,Midfield,Right,175,21600000,21600000,L1,Rasenballsport Leipzig
+375885,2021,383,Ibrahim Sangare,Cote d'Ivoire,Cote d'Ivoire,1997/12/2,Midfield,Right,191,21600000,21600000,NL1,Psv Eindhoven
+524481,2021,12,Roger Ibanez,Brazil,Brazil,1998/11/23,Defender,Right,186,20700000,22500000,IT1,As Rom
+227081,2021,46,Joaquin Correa,Argentina,Argentina,1994/8/13,Attack,Right,188,20700000,34200000,IT1,Inter Mailand
+413507,2021,430,Nikola Milenkovic,Yugoslavia (Republic),Serbia,1997/10/12,Defender,Right,195,20700000,31500000,IT1,Ac Florenz
+215599,2021,23826,Lukas Klostermann,Germany,Germany,1996/6/3,Defender,Right,189,20700000,34200000,L1,Rasenballsport Leipzig
+549006,2021,336,Goncalo Inacio,Portugal,Portugal,2001/8/25,Defender,Left,185,20700000,20700000,PO1,Sporting Lissabon
+391065,2021,6574,Hamed Junior Traore,Cote d'Ivoire,Cote d'Ivoire,2000/2/16,Attack,Both,177,19800000,19800000,IT1,Us Sassuolo
+68863,2021,583,Mauro Icardi,Argentina,Argentina,1993/2/19,Attack,Right,181,19800000,90000000,FR1,Fc Paris Saint Germain
+228948,2021,583,Thilo Kehrer,Germany,Germany,1996/9/21,Defender,Right,186,19800000,31500000,FR1,Fc Paris Saint Germain
+584769,2021,1132,Dwight Mcneil,England,England,1999/11/22,Attack,Left,183,19800000,22500000,GB1,Fc Burnley
+173504,2021,1132,James Tarkowski,England,England,1992/11/19,Defender,Right,185,19800000,25200000,GB1,Fc Burnley
+324690,2021,430,Jonathan Ikone,France,France,1998/5/2,Attack,Left,175,19800000,36000000,IT1,Ac Florenz
+371256,2021,660,Tete,Brazil,Brazil,2000/2/15,Attack,Left,175,19800000,19800000,UKR1,Shakhtar Donetsk
+471690,2021,1123,Max Aarons,England,England,2000/1/4,Defender,Right,171,19800000,19800000,GB1,Norwich City
+148153,2021,1237,Lewis Dunk,England,England,1991/11/21,Defender,Right,192,19800000,24300000,GB1,Brighton Amp Hove Albion
+566723,2021,873,Michael Olise,England,France,2001/12/12,Midfield,Left,184,19800000,19800000,GB1,Crystal Palace
+260827,2021,873,Joachim Andersen,Denmark,Denmark,1996/5/31,Defender,Right,192,19800000,22500000,GB1,Crystal Palace
+206040,2021,543,Raul Jimenez,Mexico,Mexico,1991/5/5,Attack,Right,188,19800000,45000000,GB1,Wolverhampton Wanderers
+412669,2021,543,Francisco Trincao,Portugal,Portugal,1999/12/29,Attack,Left,184,19800000,27000000,GB1,Wolverhampton Wanderers
+256977,2021,543,Daniel Podence,Portugal,Portugal,1995/10/21,Attack,Right,165,19800000,22500000,GB1,Wolverhampton Wanderers
+243028,2021,180,Jan Bednarek,Poland,Poland,1996/4/12,Defender,Right,189,19800000,22500000,GB1,Fc Southampton
+292417,2021,29,Demarai Gray,England,England,1996/6/28,Attack,Right,183,19800000,19800000,GB1,Fc Everton
+207929,2021,29,Dele Alli,England,England,1996/4/11,Attack,Right,188,19800000,90000000,GB1,Fc Everton
+343475,2021,29,Ben Godfrey,England,England,1998/1/15,Defender,Right,184,19800000,22500000,GB1,Fc Everton
+118534,2021,29,Michael Keane,England,England,1993/1/11,Defender,Right,188,19800000,27000000,GB1,Fc Everton
+134294,2021,405,Danny Ings,England,England,1992/7/23,Attack,Right,178,19800000,19800000,GB1,Aston Villa
+503749,2021,405,Jacob Ramsey,England,England,2001/5/28,Midfield,Right,180,19800000,19800000,GB1,Aston Villa
+425334,2021,405,Matty Cash,England,Poland,1997/8/7,Defender,Right,185,19800000,19800000,GB1,Aston Villa
+262749,2021,1148,David Raya,Spain,Spain,1995/9/15,Goalkeeper,Right,183,19800000,19800000,GB1,Fc Brentford
+565822,2021,31,Harvey Elliott,England,England,2003/4/4,Attack,Left,170,19800000,19800000,GB1,Fc Liverpool
+184573,2021,985,Victor Lindelof,Sweden,Sweden,1994/7/17,Defender,Right,187,19800000,31500000,GB1,Manchester United
+340329,2021,762,Joe Willock,England,England,1999/8/20,Midfield,Right,186,19800000,19800000,GB1,Newcastle United
+263727,2021,368,Joan Jordan,Spain,Spain,1994/7/6,Midfield,Right,185,19800000,27000000,ES1,Fc Sevilla
+348795,2021,148,Giovani Lo Celso,Argentina,Argentina,1996/4/9,Midfield,Left,177,19800000,45000000,GB1,Tottenham Hotspur
+212862,2021,681,Alex Remiro,Spain,Spain,1995/3/24,Goalkeeper,Right,191,19800000,19800000,ES1,Real Sociedad San Sebastian
+240692,2021,13,Reinildo Mandava,Mozambique,Mozambique,1994/1/21,Defender,Left,180,19800000,19800000,ES1,Atletico Madrid
+356141,2021,24,Daichi Kamada,Japan,Japan,1996/8/5,Attack,Right,184,19800000,22500000,L1,Eintracht Frankfurt
+212723,2021,24,Djibril Sow,Switzerland,Switzerland,1997/2/6,Midfield,Right,184,19800000,19800000,L1,Eintracht Frankfurt
+369567,2021,79,Sasa Kalajdzic,Austria,Austria,1997/7/7,Attack,Left,200,19800000,19800000,L1,Vfb Stuttgart
+106987,2021,27,Marcel Sabitzer,Austria,Austria,1994/3/17,Midfield,Right,177,19800000,37800000,L1,Fc Bayern Munchen
+324278,2021,533,Christoph Baumgartner,Austria,Austria,1999/8/1,Attack,Right,180,19800000,19800000,L1,Tsg 1899 Hoffenheim
+339332,2021,2282,Noa Lang,Netherlands,Netherlands,1999/6/17,Attack,Right,173,19800000,22500000,BE1,Fc Brugge
+711337,2021,720,Evanilson,Brazil,Brazil,1999/10/6,Attack,Both,183,19800000,19800000,PO1,Fc Porto
+196792,2021,294,Julian Weigl,Germany,Germany,1995/9/8,Midfield,Right,186,19800000,27000000,PO1,Benfica Lissabon
+401356,2021,610,Edson Alvarez,Mexico,Mexico,1997/10/24,Midfield,Right,187,19800000,19800000,NL1,Ajax Amsterdam
+454567,2021,234,Orkun Kokcu,Netherlands,Turkey,2000/12/29,Midfield,Both,175,19800000,19800000,NL1,Feyenoord Rotterdam
+323704,2021,964,Malcom,Brazil,Brazil,1997/2/26,Attack,Left,171,19800000,40500000,RU1,Zenit St Petersburg
+82009,2021,162,Kevin Volland,Germany,Germany,1992/7/30,Attack,Left,179,19800000,31500000,FR1,As Monaco
+341647,2021,244,Cengiz Under,Turkey,Turkey,1997/7/14,Attack,Left,173,19800000,31500000,FR1,Olympique Marseille
+341705,2021,244,Gerson,Brazil,Brazil,1997/5/20,Midfield,Left,184,19800000,19800000,FR1,Olympique Marseille
+256448,2021,12,Gianluca Mancini,Italy,Italy,1996/4/17,Defender,Right,190,18900000,27000000,IT1,As Rom
+157635,2021,23826,Yussuf Poulsen,Denmark,Denmark,1994/6/15,Attack,Right,192,18900000,31500000,L1,Rasenballsport Leipzig
+332341,2019,1123,Todd Cantwell,England,England,1998/2/27,Midfield,Right,180,18000000,19800000,GB1,Norwich City
+394300,2021,6574,Davide Frattesi,Italy,Italy,1999/9/22,Midfield,Right,184,18000000,18000000,IT1,Us Sassuolo
+272261,2021,276,Antonin Barak,Czech Republic,Czech Republic,1994/12/3,Attack,Left,190,18000000,18000000,IT1,Hellas Verona
+119228,2021,800,Luis Muriel,Colombia,Colombia,1991/4/16,Attack,Right,179,18000000,27000000,IT1,Atalanta Bergamo
+199248,2021,12,Bryan Cristante,Italy,Italy,1995/3/3,Midfield,Right,186,18000000,22500000,IT1,As Rom
+118689,2021,12,Leonardo Spinazzola,Italy,Italy,1993/3/25,Defender,Right,186,18000000,23400000,IT1,As Rom
+148252,2021,800,Remo Freuler,Switzerland,Switzerland,1992/4/15,Midfield,Right,180,18000000,22500000,IT1,Atalanta Bergamo
+486624,2021,1025,Musa Barrow,The Gambia,The Gambia,1998/11/14,Attack,Right,184,18000000,18000000,IT1,Fc Bologna
+318077,2021,430,Lucas Torreira,Uruguay,Uruguay,1996/2/11,Midfield,Right,166,18000000,49500000,IT1,Ac Florenz
+165895,2021,6195,Matteo Politano,Italy,Italy,1993/8/3,Attack,Left,171,18000000,27000000,IT1,Ssc Neapel
+192735,2021,6195,Stanislav Lobotka,Slovakia,Slovakia,1994/11/25,Midfield,Both,170,18000000,22500000,IT1,Ssc Neapel
+469822,2021,660,David Neres,Brazil,Brazil,1997/3/3,Attack,Left,176,18000000,40500000,UKR1,Shakhtar Donetsk
+401529,2021,660,Dodo,Brazil,Brazil,1998/11/17,Defender,Right,166,18000000,18000000,UKR1,Shakhtar Donetsk
+217115,2021,1237,Neal Maupay,France,France,1996/8/14,Attack,Right,173,18000000,19800000,GB1,Brighton Amp Hove Albion
+490307,2021,1237,Enock Mwepu,Zambia,Zambia,1998/1/1,Midfield,Right,184,18000000,18000000,GB1,Brighton Amp Hove Albion
+284857,2021,1237,Marc Cucurella,Spain,Spain,1998/7/22,Defender,Left,175,18000000,18000000,GB1,Brighton Amp Hove Albion
+183334,2021,399,Patrick Bamford,England,England,1993/9/5,Attack,Left,185,18000000,19800000,GB1,Leeds United
+542586,2021,399,Illan Meslier,France,France,2000/3/2,Goalkeeper,Left,197,18000000,18000000,GB1,Leeds United
+479999,2021,873,Eberechi Eze,England,England,1998/6/29,Attack,Right,173,18000000,18000000,GB1,Crystal Palace
+346779,2021,180,Che Adams,England,Scotland,1996/7/13,Attack,Right,179,18000000,18000000,GB1,Fc Southampton
+221025,2021,29,Andre Gomes,Portugal,Portugal,1993/7/30,Midfield,Right,188,18000000,27000000,GB1,Fc Everton
+289446,2021,29,Yerry Mina,Colombia,Colombia,1994/9/23,Defender,Right,195,18000000,27000000,GB1,Fc Everton
+131996,2021,405,Bertrand Traore,Burkina Faso,Burkina Faso,1995/9/6,Attack,Left,181,18000000,18000000,GB1,Aston Villa
+80444,2021,405,Philippe Coutinho,Brazil,Brazil,1992/6/12,Attack,Right,172,18000000,135000000,GB1,Aston Villa
+339556,2021,1148,Rico Henry,England,England,1997/7/8,Defender,Left,170,18000000,18000000,GB1,Fc Brentford
+60444,2021,31,Thiago,Italy,Spain,1991/4/11,Midfield,Right,174,18000000,63000000,GB1,Fc Liverpool
+583189,2021,985,Anthony Elanga,Sweden,Sweden,2002/4/27,Attack,Right,178,18000000,18000000,GB1,Manchester United
+191614,2021,985,Fred,Brazil,Brazil,1993/3/5,Midfield,Left,169,18000000,45000000,GB1,Manchester United
+357147,2021,985,Diogo Dalot,Portugal,Portugal,1999/3/18,Defender,Right,183,18000000,18000000,GB1,Manchester United
+202886,2021,631,Ruben Loftus Cheek,England,England,1996/1/23,Midfield,Right,190,18000000,27000000,GB1,Fc Chelsea
+346314,2021,631,Trevoh Chalobah,Sierra Leone,England,1999/7/5,Defender,Right,190,18000000,18000000,GB1,Fc Chelsea
+191217,2021,11,Hector Bellerin,Spain,Spain,1995/3/19,Defender,Right,177,18000000,36000000,GB1,Fc Arsenal
+111455,2021,11,Granit Xhaka,Switzerland,Switzerland,1992/9/27,Midfield,Left,186,18000000,45000000,GB1,Fc Arsenal
+123682,2021,762,Callum Wilson,England,England,1992/2/27,Attack,Right,180,18000000,27000000,GB1,Newcastle United
+365172,2021,1003,Patson Daka,Zambia,Zambia,1998/10/9,Attack,Right,183,18000000,19800000,GB1,Leicester City
+295330,2021,1003,Kelechi Iheanacho,Nigeria,Nigeria,1996/10/3,Attack,Left,185,18000000,18000000,GB1,Leicester City
+77100,2021,148,Lucas Moura,Brazil,Brazil,1992/8/13,Attack,Right,172,18000000,36000000,GB1,Tottenham Hotspur
+298589,2021,331,David Garcia,Spain,Spain,1994/2/14,Defender,Right,185,18000000,18000000,ES1,Ca Osasuna
+192765,2021,148,Ben Davies,Wales,Wales,1993/4/24,Defender,Left,181,18000000,22500000,GB1,Tottenham Hotspur
+229804,2021,681,Aritz Elustondo,Spain,Spain,1994/3/28,Defender,Right,182,18000000,18000000,ES1,Real Sociedad San Sebastian
+495629,2021,1049,Hugo Guillamon,Spain,Spain,2000/1/31,Midfield,Right,178,18000000,18000000,ES1,Fc Valencia
+610083,2021,621,Unai Vencedor,Spain,Spain,2000/11/15,Midfield,Right,176,18000000,18000000,ES1,Athletic Bilbao
+215876,2021,1003,Ricardo Pereira,Portugal,Portugal,1993/10/6,Defender,Right,175,18000000,36000000,GB1,Leicester City
+127189,2021,13,Geoffrey Kondogbia,France,Central African Republic,1993/2/15,Midfield,Left,188,18000000,27000000,ES1,Atletico Madrid
+466805,2021,131,Nico Gonzalez,Spain,Spain,2002/1/3,Midfield,Right,188,18000000,22500000,ES1,Fc Barcelona
+281769,2021,13,Mario Hermoso,Spain,Spain,1995/6/18,Defender,Left,184,18000000,31500000,ES1,Atletico Madrid
+204103,2021,131,Adama Traore,Spain,Spain,1996/1/25,Attack,Right,178,18000000,36000000,ES1,Fc Barcelona
+31909,2021,418,Toni Kroos,DDR,Germany,1990/1/4,Midfield,Right,183,18000000,72000000,ES1,Real Madrid
+357885,2021,379,Pablo Fornals,Spain,Spain,1996/2/22,Attack,Right,178,18000000,27000000,GB1,West Ham United
+323831,2021,24,Rafael Borre,Colombia,Colombia,1995/9/15,Attack,Right,174,18000000,18000000,L1,Eintracht Frankfurt
+318528,2021,18,Marcus Thuram,Italy,France,1997/8/6,Attack,Right,192,18000000,36000000,L1,Borussia Monchengladbach
+401922,2021,1050,Samuel Chukwueze,Nigeria,Nigeria,1999/5/22,Attack,Left,172,18000000,27000000,ES1,Fc Villarreal
+349599,2021,1050,Pervis Estupinan,Ecuador,Ecuador,1998/1/21,Defender,Left,175,18000000,18000000,ES1,Fc Villarreal
+278332,2021,18,Florian Neuhaus,Germany,Germany,1997/3/16,Midfield,Right,185,18000000,34200000,L1,Borussia Monchengladbach
+293194,2021,79,Borna Sosa,Croatia,Croatia,1998/1/21,Defender,Left,187,18000000,18000000,L1,Vfb Stuttgart
+327251,2021,82,Ridle Baku,Germany,Germany,1998/4/8,Midfield,Right,176,18000000,22500000,L1,Vfl Wolfsburg
+434224,2021,82,Maxence Lacroix,France,France,2000/4/6,Defender,Right,190,18000000,25200000,L1,Vfl Wolfsburg
+644771,2021,2282,Odilon Kossounou,Cote d'Ivoire,Cote d'Ivoire,2001/1/4,Defender,Right,191,18000000,20700000,BE1,Fc Brugge
+102226,2021,16,Thorgan Hazard,Belgium,Belgium,1993/3/29,Attack,Right,175,18000000,40500000,L1,Borussia Dortmund
+66106,2021,150,Sergio Canales,Spain,Spain,1991/2/16,Attack,Left,180,18000000,22500000,ES1,Real Betis Sevilla
+257814,2021,16,Gregor Kobel,Switzerland,Switzerland,1997/12/6,Goalkeeper,Right,194,18000000,18000000,L1,Borussia Dortmund
+307058,2021,720,Mehdi Taremi,Iran,Iran,1992/7/18,Attack,Right,187,18000000,18000000,PO1,Fc Porto
+238055,2021,294,Rafa Silva,Portugal,Portugal,1993/5/17,Midfield,Right,170,18000000,27000000,PO1,Benfica Lissabon
+193082,2021,294,Alejandro Grimaldo,Spain,Spain,1995/9/20,Defender,Left,171,18000000,31500000,PO1,Benfica Lissabon
+484547,2021,15,Jeremie Frimpong,Netherlands,Netherlands,2000/12/10,Defender,Right,171,18000000,18000000,L1,Bayer 04 Leverkusen
+340456,2021,610,Noussair Mazraoui,Netherlands,Morocco,1997/11/14,Defender,Right,183,18000000,18000000,NL1,Ajax Amsterdam
+261927,2021,1075,Ricardo Horta,Portugal,Portugal,1994/9/15,Attack,Right,173,18000000,18000000,PO1,Sc Braga
+257668,2021,964,Wilmar Barrios,Colombia,Colombia,1993/10/16,Midfield,Right,178,18000000,18000000,RU1,Zenit St Petersburg
+569389,2021,162,Sofiane Diop,France,France,2000/6/9,Attack,Right,175,18000000,18000000,FR1,As Monaco
+420064,2021,162,Caio Henrique,Brazil,Brazil,1997/7/31,Defender,Left,179,18000000,18000000,FR1,As Monaco
+486049,2021,273,Jeremy Doku,Belgium,Belgium,2002/5/27,Attack,Right,173,18000000,23400000,FR1,Fc Stade Rennes
+387106,2021,273,Lovro Majer,Croatia,Croatia,1998/1/17,Attack,Left,176,18000000,18000000,FR1,Fc Stade Rennes
+229004,2021,1041,Moussa Dembele,France,France,1996/7/12,Attack,Right,187,18000000,45000000,FR1,Olympique Lyon
+618472,2021,1041,Castello Lukeba,France,France,2002/12/17,Defender,Left,184,18000000,18000000,FR1,Olympique Lyon
+605184,2021,417,Jean Clair Todibo,French Guiana,France,1999/12/30,Defender,Right,190,18000000,18000000,FR1,Ogc Nizza
+216569,2021,800,Jeremie Boga,France,Cote d'Ivoire,1997/1/3,Attack,Right,174,17100000,22500000,IT1,Atalanta Bergamo
+499721,2021,964,Wendel,Brazil,Brazil,1997/8/28,Midfield,Right,180,17100000,17100000,RU1,Zenit St Petersburg
+85314,2016,631,Oscar,Brazil,Brazil,1991/9/9,Attack,Right,179,16200000,36000000,GB1,Fc Chelsea
+337715,2018,12,Umar Sadiq,Nigeria,Nigeria,1997/2/2,Attack,Right,192,16200000,16200000,IT1,As Rom
+51152,2020,931,Aleksandar Mitrovic,Yugoslavia (Republic),Serbia,1994/9/16,Attack,Right,189,16200000,22500000,GB1,Fc Fulham
+333014,2020,350,Sander Berge,Norway,Norway,1998/2/14,Midfield,Right,195,16200000,19800000,GB1,Sheffield United
+242359,2021,800,Juan Musso,Argentina,Argentina,1994/5/6,Goalkeeper,Right,191,16200000,18000000,IT1,Atalanta Bergamo
+283735,2021,398,Mattia Zaccagni,Italy,Italy,1995/6/16,Attack,Right,177,16200000,16200000,IT1,Lazio Rom
+85148,2021,583,Julian Draxler,Germany,Germany,1993/9/20,Attack,Right,185,16200000,36000000,FR1,Fc Paris Saint Germain
+49499,2021,583,Georginio Wijnaldum,Netherlands,Netherlands,1990/11/11,Midfield,Right,175,16200000,45000000,FR1,Fc Paris Saint Germain
+229005,2021,583,Abdou Diallo,France,Senegal,1996/5/4,Defender,Left,187,16200000,31500000,FR1,Fc Paris Saint Germain
+585959,2021,583,Arnaud Kalimuendo,France,France,2002/1/20,Attack,Right,175,16200000,16200000,FR1,Fc Paris Saint Germain
+129129,2021,1390,Joao Pedro,Brazil,Italy,1992/3/9,Attack,Right,184,16200000,16200000,IT1,Cagliari Calcio
+314678,2021,5,Brahim Diaz,Spain,Spain,1999/8/3,Attack,Both,171,16200000,22500000,IT1,Ac Mailand
+362842,2021,506,Arthur,Brazil,Brazil,1996/8/12,Midfield,Right,172,16200000,63000000,IT1,Juventus Turin
+198116,2021,46,Federico Dimarco,Italy,Italy,1997/11/10,Defender,Left,175,16200000,16200000,IT1,Inter Mailand
+292199,2021,449,Ugurcan Cakir,Turkey,Turkey,1996/4/5,Goalkeeper,Right,191,16200000,17100000,TR1,Trabzonspor
+396638,2021,660,Manor Solomon,Israel,Israel,1999/7/24,Attack,Right,170,16200000,18000000,UKR1,Shakhtar Donetsk
+504148,2021,1237,Tariq Lamptey,England,England,2000/9/30,Defender,Right,163,16200000,16200000,GB1,Brighton Amp Hove Albion
+212847,2021,1237,Adam Webster,England,England,1995/1/4,Defender,Right,190,16200000,16200000,GB1,Brighton Amp Hove Albion
+319301,2021,399,Daniel James,England,Wales,1997/11/10,Attack,Right,170,16200000,25200000,GB1,Leeds United
+246291,2021,399,Diego Llorente,Spain,Spain,1993/8/16,Defender,Right,186,16200000,22500000,GB1,Leeds United
+505653,2021,543,Fabio Silva,Portugal,Portugal,2002/7/19,Attack,Right,185,16200000,22500000,GB1,Wolverhampton Wanderers
+571743,2021,180,Armando Broja,England,Albania,2001/9/10,Attack,Right,191,16200000,16200000,GB1,Fc Southampton
+129078,2021,180,Nathan Redmond,England,England,1994/3/6,Attack,Right,173,16200000,18000000,GB1,Fc Southampton
+341051,2021,180,Kyle Walker Peters,England,England,1997/4/13,Defender,Right,173,16200000,16200000,GB1,Fc Southampton
+242631,2021,29,Alex Iwobi,Nigeria,Nigeria,1996/5/3,Attack,Right,183,16200000,28800000,GB1,Fc Everton
+314210,2021,29,Tom Davies,England,England,1998/6/30,Midfield,Right,180,16200000,16200000,GB1,Fc Everton
+126422,2021,29,Allan,Brazil,Brazil,1991/1/8,Midfield,Right,175,16200000,54000000,GB1,Fc Everton
+404842,2021,29,Vitaliy Mykolenko,Ukraine,Ukraine,1999/5/29,Defender,Left,180,16200000,16200000,GB1,Fc Everton
+348623,2021,29,Mason Holgate,England,England,1996/10/22,Defender,Right,187,16200000,18000000,GB1,Fc Everton
+328658,2021,1148,Kristoffer Ajer,Norway,Norway,1998/4/17,Defender,Right,198,16200000,16200000,GB1,Fc Brentford
+82105,2021,31,Joel Matip,Germany,Cameroon,1991/8/8,Defender,Right,195,16200000,36000000,GB1,Fc Liverpool
+256178,2021,31,Joe Gomez,England,England,1997/5/23,Defender,Right,188,16200000,37800000,GB1,Fc Liverpool
+95424,2021,281,Kyle Walker,England,England,1990/5/28,Defender,Right,183,16200000,45000000,GB1,Manchester City
+141660,2021,985,Jesse Lingard,England,England,1992/12/15,Attack,Right,174,16200000,36000000,GB1,Manchester United
+255755,2021,985,Alex Telles,Brazil,Brazil,1992/12/15,Defender,Left,181,16200000,36000000,GB1,Manchester United
+258919,2021,985,Dean Henderson,England,England,1997/3/12,Goalkeeper,Right,188,16200000,19800000,GB1,Manchester United
+333241,2021,762,Joelinton,Brazil,Brazil,1996/8/14,Attack,Right,186,16200000,31500000,GB1,Newcastle United
+95810,2021,762,Kieran Trippier,England,England,1990/9/19,Defender,Right,173,16200000,31500000,GB1,Newcastle United
+125165,2021,368,Tecatito,Mexico,Mexico,1993/1/6,Attack,Both,173,16200000,27000000,ES1,Fc Sevilla
+60410,2021,368,Marcos Acuna,Argentina,Argentina,1991/10/28,Defender,Left,172,16200000,16200000,ES1,Fc Sevilla
+207834,2021,368,Bono,Canada,Morocco,1991/4/5,Goalkeeper,Left,192,16200000,16200000,ES1,Fc Sevilla
+392775,2021,148,Ryan Sessegnon,England,England,2000/5/18,Midfield,Left,178,16200000,31500000,GB1,Tottenham Hotspur
+284165,2021,148,Steven Bergwijn,Netherlands,Netherlands,1997/10/8,Attack,Right,178,16200000,31500000,GB1,Tottenham Hotspur
+406638,2021,148,Oliver Skipp,England,England,2000/9/16,Midfield,Right,175,16200000,18000000,GB1,Tottenham Hotspur
+537382,2021,1049,Bryan Gil,Spain,Spain,2001/2/11,Attack,Left,175,16200000,27000000,ES1,Fc Valencia
+309110,2021,940,Brais Mendez,Spain,Spain,1997/1/7,Attack,Left,184,16200000,18000000,ES1,Celta Vigo
+361104,2021,131,Sergino Dest,Netherlands,United States,2000/11/3,Defender,Right,175,16200000,27000000,ES1,Fc Barcelona
+466794,2021,131,Eric Garcia,Spain,Spain,2001/1/9,Defender,Right,182,16200000,18000000,ES1,Fc Barcelona
+138927,2021,418,Daniel Carvajal,Spain,Spain,1992/1/11,Defender,Right,173,16200000,54000000,ES1,Real Madrid
+291200,2021,39,Moussa Niakhate,France,France,1996/3/8,Defender,Left,190,16200000,16200000,L1,1 Fsv Mainz 05
+314288,2021,82,Lukas Nmecha,Germany,Germany,1998/12/14,Attack,Right,185,16200000,16200000,L1,Vfl Wolfsburg
+356197,2021,1050,Alfonso Pedraza,Spain,Spain,1996/4/9,Defender,Left,184,16200000,19800000,ES1,Fc Villarreal
+624690,2021,18,Kouadio Kone,France,France,2001/5/17,Midfield,Right,185,16200000,16200000,L1,Borussia Monchengladbach
+192635,2021,18,Nico Elvedi,Switzerland,Switzerland,1996/9/30,Defender,Right,189,16200000,31500000,L1,Borussia Monchengladbach
+124502,2021,18,Matthias Ginter,Germany,Germany,1994/1/19,Defender,Right,191,16200000,31500000,L1,Borussia Monchengladbach
+666234,2021,23826,Mohamed Simakan,France,France,2000/5/3,Defender,Right,187,16200000,16200000,L1,Rasenballsport Leipzig
+46580,2021,533,Andrej Kramaric,Jugoslawien (SFR),Croatia,1991/6/19,Attack,Right,177,16200000,34200000,L1,Tsg 1899 Hoffenheim
+191422,2021,16,Mahmoud Dahoud,Syria,Germany,1996/1/1,Midfield,Right,178,16200000,16200000,L1,Borussia Dortmund
+193098,2021,150,Alex Moreno,Spain,Spain,1993/6/8,Defender,Left,179,16200000,16200000,ES1,Real Betis Sevilla
+520662,2021,720,Pepe,Brazil,Brazil,1997/2/24,Midfield,Right,175,16200000,16200000,PO1,Fc Porto
+503987,2021,383,Noni Madueke,England,England,2002/3/10,Attack,Left,182,16200000,16200000,NL1,Psv Eindhoven
+403315,2021,964,Claudinho,Brazil,Brazil,1997/1/28,Attack,Right,170,16200000,16200000,RU1,Zenit St Petersburg
+569598,2021,162,Youssouf Fofana,France,France,1999/1/10,Midfield,Right,176,16200000,16200000,FR1,As Monaco
+789082,2021,162,Vanderson,Brazil,Brazil,2001/6/21,Defender,Right,180,16200000,16200000,FR1,As Monaco
+181378,2021,273,Gaetan Laborde,France,France,1994/5/3,Attack,Left,181,16200000,16200000,FR1,Fc Stade Rennes
+746695,2021,273,Kamaldeen Sulemana,Ghana,Ghana,2002/2/15,Attack,Right,175,16200000,18000000,FR1,Fc Stade Rennes
+266359,2021,273,Benjamin Bourigeaud,France,France,1994/1/14,Midfield,Right,178,16200000,16200000,FR1,Fc Stade Rennes
+251075,2021,1082,Zeki Celik,Turkey,Turkey,1997/2/17,Defender,Right,180,16200000,18000000,FR1,Losc Lille
+607223,2021,1041,Rayan Cherki,France,France,2003/8/17,Attack,Both,176,16200000,24300000,FR1,Olympique Lyon
+279457,2021,124,Ryan Kent,England,England,1996/11/11,Attack,Right,176,15750000,15750000,SC1,Glasgow Rangers
+228645,2021,1132,Wout Weghorst,Netherlands,Netherlands,1992/8/7,Attack,Right,197,15300000,27000000,GB1,Fc Burnley
+282388,2021,276,Giovanni Simeone,Spain,Argentina,1995/7/5,Attack,Right,181,15300000,22500000,IT1,Hellas Verona
+164771,2021,12,Jordan Veretout,France,France,1993/3/1,Midfield,Right,177,15300000,31500000,IT1,As Rom
+133179,2021,800,Marten De Roon,Netherlands,Netherlands,1991/3/29,Midfield,Right,185,15300000,21600000,IT1,Atalanta Bergamo
+165513,2021,800,Berat Djimsiti,Switzerland,Albania,1993/2/19,Defender,Right,190,15300000,19800000,IT1,Atalanta Bergamo
+166237,2021,583,Leandro Paredes,Argentina,Argentina,1994/6/29,Midfield,Right,180,15300000,36000000,FR1,Fc Paris Saint Germain
+381950,2021,5,Alexis Saelemaekers,Belgium,Belgium,1999/6/27,Attack,Right,180,15300000,18000000,IT1,Ac Mailand
+187587,2021,5,Ante Rebic,Croatia,Croatia,1993/9/21,Attack,Right,185,15300000,36000000,IT1,Ac Mailand
+197747,2021,5,Alessio Romagnoli,Italy,Italy,1995/1/12,Defender,Left,185,15300000,45000000,IT1,Ac Mailand
+182913,2021,506,Adrien Rabiot,France,France,1995/4/3,Midfield,Left,188,15300000,45000000,IT1,Juventus Turin
+515208,2021,660,Pedrinho,Brazil,Brazil,1998/4/13,Attack,Left,172,15300000,15300000,UKR1,Shakhtar Donetsk
+144028,2021,1237,Leandro Trossard,Belgium,Belgium,1994/12/4,Attack,Right,172,15300000,15300000,GB1,Brighton Amp Hove Albion
+328784,2021,399,Robin Koch,Germany,Germany,1996/7/17,Defender,Right,191,15300000,16200000,GB1,Leeds United
+344152,2021,873,Odsonne Edouard,French Guiana,France,1998/1/16,Attack,Right,187,15300000,15300000,GB1,Crystal Palace
+730893,2021,873,Tyrick Mitchell,England,England,1999/9/1,Defender,Left,175,15300000,15300000,GB1,Crystal Palace
+250478,2021,762,Matt Targett,England,England,1995/9/18,Defender,Left,183,15300000,15300000,GB1,Newcastle United
+225657,2021,60,Philipp Lienhart,Austria,Austria,1996/7/11,Defender,Right,189,15300000,15300000,L1,Sc Freiburg
+513245,2021,24,Jesper Lindstrom,Denmark,Denmark,2000/2/29,Attack,Right,182,15300000,15300000,L1,Eintracht Frankfurt
+333647,2021,39,Jonathan Burkardt,Germany,Germany,2000/7/11,Attack,Right,183,15300000,15300000,L1,1 Fsv Mainz 05
+284732,2021,18,Ramy Bensebaini,Algeria,Algeria,1995/4/16,Defender,Left,187,15300000,19800000,L1,Borussia Monchengladbach
+415912,2021,79,Konstantinos Mavropanos,Greece,Greece,1997/12/11,Defender,Right,194,15300000,15300000,L1,Vfb Stuttgart
+117674,2021,82,Maximilian Arnold,Germany,Germany,1994/5/27,Midfield,Left,184,15300000,17100000,L1,Vfl Wolfsburg
+332705,2021,23826,Tyler Adams,United States,United States,1999/2/14,Midfield,Right,175,15300000,18000000,L1,Rasenballsport Leipzig
+318204,2021,533,David Raum,Germany,Germany,1998/4/22,Defender,Left,180,15300000,15300000,L1,Tsg 1899 Hoffenheim
+272855,2021,1184,Paul Onuachu,Nigeria,Nigeria,1994/5/28,Attack,Right,200,15300000,19800000,BE1,Krc Genk
+203348,2021,720,Chancel Mbemba,Zaire,DR Congo,1994/8/8,Defender,Right,182,15300000,15300000,PO1,Fc Porto
+659813,2021,15,Piero Hincapie,Ecuador,Ecuador,2002/1/9,Defender,Left,184,15300000,15300000,L1,Bayer 04 Leverkusen
+469781,2021,234,Marcos Senesi,Argentina,Argentina,1997/5/10,Defender,Left,185,15300000,18000000,NL1,Feyenoord Rotterdam
+339340,2021,234,Tyrell Malacia,Netherlands,Netherlands,1999/8/17,Defender,Left,169,15300000,15300000,NL1,Feyenoord Rotterdam
+386726,2021,2410,Yusuf Yazici,Turkey,Turkey,1997/1/29,Attack,Left,184,15300000,18000000,RU1,Zska Moskau
+386047,2021,162,Axel Disasi,France,France,1998/3/11,Defender,Right,190,15300000,16200000,FR1,As Monaco
+292818,2021,1082,Jonathan Bamba,France,France,1996/3/26,Attack,Right,175,15300000,22500000,FR1,Losc Lille
+283196,2021,417,Kasper Dolberg,Denmark,Denmark,1997/10/6,Attack,Right,187,15300000,20700000,FR1,Ogc Nizza
+463618,2021,417,Khephren Thuram,Italy,France,2001/3/26,Midfield,Right,192,15300000,15300000,FR1,Ogc Nizza
+382528,2021,141,Kerem Akturkoglu,Turkey,Turkey,1998/10/21,Attack,Right,173,14850000,14850000,TR1,Galatasaray Istanbul
+320411,2019,989,Philip Billing,Denmark,Denmark,1996/6/11,Midfield,Left,193,14400000,16200000,GB1,Afc Bournemouth
+277033,2019,989,David Brooks,England,Wales,1997/7/8,Attack,Left,173,14400000,27000000,GB1,Afc Bournemouth
+332179,2021,800,Matteo Pessina,Italy,Italy,1997/4/21,Attack,Left,187,14400000,18000000,IT1,Atalanta Bergamo
+371371,2021,12,Marash Kumbulla,Italy,Albania,2000/2/8,Defender,Right,191,14400000,24300000,IT1,As Rom
+457931,2021,398,Luiz Felipe,Brazil,Italy,1997/3/22,Defender,Right,187,14400000,19800000,IT1,Lazio Rom
+315865,2021,749,Andrea Pinamonti,Italy,Italy,1999/5/19,Attack,Right,185,14400000,14400000,IT1,Fc Empoli
+336077,2021,36,Altay Bayindir,Turkey,Turkey,1998/4/14,Goalkeeper,Right,198,14400000,14400000,TR1,Fenerbahce Istanbul
+413039,2021,1148,Bryan Mbeumo,France,France,1999/8/7,Attack,Left,171,14400000,14400000,GB1,Fc Brentford
+534033,2021,1237,Alexis Mac Allister,Argentina,Argentina,1998/12/24,Attack,Right,174,14400000,14400000,GB1,Brighton Amp Hove Albion
+403151,2021,1237,Robert Sanchez,Spain,Spain,1997/11/18,Goalkeeper,Right,197,14400000,14400000,GB1,Brighton Amp Hove Albion
+292246,2021,543,Hee Chan Hwang,"Korea, South","Korea, South",1996/1/26,Attack,Right,177,14400000,14400000,GB1,Wolverhampton Wanderers
+525247,2021,543,Max Kilman,England,England,1997/5/23,Defender,Left,195,14400000,14400000,GB1,Wolverhampton Wanderers
+250426,2021,180,Adam Armstrong,England,England,1997/2/10,Attack,Right,173,14400000,16200000,GB1,Fc Southampton
+503733,2021,29,Anthony Gordon,England,England,2001/2/24,Attack,Right,182,14400000,14400000,GB1,Fc Everton
+182877,2021,985,Anthony Martial,France,France,1995/12/5,Attack,Right,181,14400000,58500000,GB1,Manchester United
+143424,2021,31,Alex Oxlade Chamberlain,England,England,1993/8/15,Midfield,Right,175,14400000,36000000,GB1,Fc Liverpool
+340324,2021,11,Eddie Nketiah,England,England,1999/5/30,Attack,Right,175,14400000,18000000,GB1,Fc Arsenal
+272999,2021,762,Miguel Almiron,Paraguay,Paraguay,1994/2/10,Attack,Left,174,14400000,18000000,GB1,Newcastle United
+111630,2021,368,Erik Lamela,Argentina,Argentina,1992/3/4,Attack,Left,184,14400000,27000000,ES1,Fc Sevilla
+361254,2021,368,Rafa Mir,Spain,Spain,1997/6/18,Attack,Right,191,14400000,14400000,ES1,Fc Sevilla
+54235,2021,621,Iker Muniain,Spain,Spain,1992/12/19,Attack,Right,169,14400000,19800000,ES1,Athletic Bilbao
+107010,2021,13,Stefan Savic,Jugoslawien (SFR),Montenegro,1991/1/8,Defender,Right,187,14400000,36000000,ES1,Atletico Madrid
+257462,2021,418,Luka Jovi?,Bosnia-Herzegovina,Serbia,1997/12/23,Attack,Both,182,14400000,54000000,ES1,Real Madrid
+288253,2021,39,Jeremiah St Juste,Netherlands,Netherlands,1996/10/19,Defender,Right,186,14400000,14400000,L1,1 Fsv Mainz 05
+111078,2021,23826,Emil Forsberg,Sweden,Sweden,1991/10/23,Attack,Right,177,14400000,25200000,L1,Rasenballsport Leipzig
+237164,2021,533,Ihlas Bebou,Togo,Togo,1994/4/23,Attack,Right,183,14400000,14400000,L1,Tsg 1899 Hoffenheim
+315604,2021,533,Diadie Samassekou,Mali,Mali,1996/1/11,Midfield,Right,177,14400000,18000000,L1,Tsg 1899 Hoffenheim
+195736,2021,533,Florian Grillitsch,Austria,Austria,1995/8/7,Midfield,Right,187,14400000,22500000,L1,Tsg 1899 Hoffenheim
+137576,2021,2282,Hans Vanaken,Belgium,Belgium,1992/8/24,Attack,Right,195,14400000,14400000,BE1,Fc Brugge
+100131,2021,150,William Carvalho,Angola,Portugal,1992/4/7,Midfield,Right,187,14400000,27000000,ES1,Real Betis Sevilla
+119296,2021,16,Emre Can,Germany,Germany,1994/1/12,Midfield,Right,186,14400000,36000000,L1,Borussia Dortmund
+214538,2021,720,Mateus Uribe,Colombia,Colombia,1991/3/21,Midfield,Right,182,14400000,14400000,PO1,Fc Porto
+489893,2021,964,Yuri Alberto,Brazil,Brazil,2001/3/18,Attack,Both,183,14400000,14400000,RU1,Zenit St Petersburg
+220793,2021,964,Douglas Santos,Brazil,Brazil,1994/3/22,Defender,Left,175,14400000,14400000,RU1,Zenit St Petersburg
+191891,2021,244,Arkadiusz Milik,Poland,Poland,1994/2/28,Attack,Left,186,14400000,36000000,FR1,Olympique Marseille
+238266,2021,244,Duje Caleta Car,Croatia,Croatia,1996/9/17,Defender,Right,192,14400000,22500000,FR1,Olympique Marseille
+318470,2021,16704,Matvey Safonov,Russia,Russia,1999/2/25,Goalkeeper,Right,192,14400000,14400000,RU1,Fk Krasnodar
+288225,2021,995,Ludovic Blas,France,France,1997/12/31,Attack,Left,180,14400000,14400000,FR1,Fc Nantes
+487969,2021,995,Randal Kolo Muani,France,France,1998/12/5,Attack,Right,187,14400000,14400000,FR1,Fc Nantes
+357117,2021,995,Alban Lafont,Burkina Faso,France,1999/1/23,Goalkeeper,Right,196,14400000,16200000,FR1,Fc Nantes
+283994,2021,667,Ludovic Ajorque,Réunion,France,1994/2/25,Attack,Left,197,14400000,14400000,FR1,Rc Strassburg Alsace
+369684,2018,610,Rasmus Kristensen,Denmark,Denmark,1997/7/11,Defender,Right,187,13500000,13500000,NL1,Ajax Amsterdam
+262980,2019,989,Jefferson Lerma,Colombia,Colombia,1994/10/25,Midfield,Right,179,13500000,22500000,GB1,Afc Bournemouth
+279455,2019,989,Harry Wilson,Wales,Wales,1997/3/22,Attack,Left,173,13500000,22500000,GB1,Afc Bournemouth
+88103,2019,418,James Rodriguez,Colombia,Colombia,1991/7/12,Attack,Left,181,13500000,72000000,ES1,Real Madrid
+258878,2020,931,Tosin Adarabioyo,England,England,1997/9/24,Defender,Right,196,13500000,13500000,GB1,Fc Fulham
+540941,2021,1038,Mikkel Damsgaard,Denmark,Denmark,2000/7/3,Attack,Right,180,13500000,18000000,IT1,Sampdoria Genua
+293169,2021,416,Josip Brekalo,Croatia,Croatia,1998/6/23,Attack,Right,175,13500000,13500000,IT1,Fc Turin
+129588,2021,416,Dennis Praet,Belgium,Belgium,1994/5/14,Midfield,Right,181,13500000,22500000,IT1,Fc Turin
+648779,2021,416,Stephane Singo,Cote d'Ivoire,Cote d'Ivoire,2000/12/25,Defender,Right,190,13500000,13500000,IT1,Fc Turin
+331401,2021,398,Manuel Lazzari,Italy,Italy,1993/11/29,Defender,Right,174,13500000,20700000,IT1,Lazio Rom
+670847,2021,1420,Mohamed Ali Cho,France,France,2004/1/19,Attack,Left,182,13500000,13500000,FR1,Sco Angers
+568693,2021,347,Pape Matar Sarr,Senegal,Senegal,2002/9/14,Midfield,Right,184,13500000,18000000,FR1,Fc Metz
+192080,2021,1132,Nick Pope,England,England,1992/4/19,Goalkeeper,Right,198,13500000,13500000,GB1,Fc Burnley
+392771,2021,607,Ethan Ampadu,England,Wales,2000/9/14,Defender,Right,183,13500000,13500000,IT1,Venezia Fc
+342405,2021,1025,Mattias Svanberg,Sweden,Sweden,1999/1/5,Midfield,Right,185,13500000,13500000,IT1,Fc Bologna
+591949,2021,1025,Aaron Hickey,Scotland,Scotland,2002/6/10,Defender,Both,185,13500000,13500000,IT1,Fc Bologna
+315063,2021,1390,Nahitan Nandez,Uruguay,Uruguay,1995/12/28,Midfield,Right,172,13500000,23400000,IT1,Cagliari Calcio
+44058,2021,506,Wojciech Szczesny,Poland,Poland,1990/4/18,Goalkeeper,Right,196,13500000,36000000,IT1,Juventus Turin
+390638,2021,430,Arthur Cabral,Brazil,Brazil,1998/4/25,Attack,Right,186,13500000,13500000,IT1,Ac Florenz
+303116,2021,430,Gaetano Castrovilli,Italy,Italy,1997/2/17,Midfield,Right,187,13500000,22500000,IT1,Ac Florenz
+373373,2021,430,Lucas Martinez Quarta,Argentina,Argentina,1996/5/10,Defender,Right,183,13500000,13500000,IT1,Ac Florenz
+131505,2021,399,Rodrigo,Brazil,Spain,1991/3/6,Attack,Left,182,13500000,45000000,GB1,Leeds United
+417346,2021,399,Jack Harrison,England,England,1996/11/20,Attack,Left,175,13500000,13500000,GB1,Leeds United
+410708,2021,399,Pascal Struijk,Belgium,Netherlands,1999/8/11,Defender,Left,190,13500000,13500000,GB1,Leeds United
+69633,2021,1148,Christian Eriksen,Denmark,Denmark,1992/2/14,Attack,Right,182,13500000,90000000,GB1,Fc Brentford
+175446,2021,543,Jonny Otto,Spain,Spain,1994/3/3,Defender,Both,175,13500000,18000000,GB1,Wolverhampton Wanderers
+578391,2021,543,Rayan Ait Nouri,France,France,2001/6/6,Defender,Left,179,13500000,18000000,GB1,Wolverhampton Wanderers
+563963,2021,180,Mohammed Salisu,Ghana,Ghana,1999/4/17,Defender,Left,191,13500000,13500000,GB1,Fc Southampton
+61651,2021,31,Jordan Henderson,England,England,1990/6/17,Midfield,Right,187,13500000,31500000,GB1,Fc Liverpool
+338070,2021,31,Konstantinos Tsimikas,Greece,Greece,1996/5/12,Defender,Left,179,13500000,13500000,GB1,Fc Liverpool
+536835,2021,985,Amad Diallo,Cote d'Ivoire,Cote d'Ivoire,2002/7/11,Attack,Left,173,13500000,16200000,GB1,Manchester United
+59377,2021,985,David De Gea,Spain,Spain,1990/11/7,Goalkeeper,Right,189,13500000,63000000,GB1,Manchester United
+58864,2021,11,Pierre Emerick Aubameyang,France,Gabon,1989/6/18,Attack,Right,187,13500000,67500000,GB1,Fc Arsenal
+535955,2021,11,Nuno Tavares,Portugal,Portugal,2000/1/26,Defender,Left,184,13500000,13500000,GB1,Fc Arsenal
+93720,2021,11,Alexandre Lacazette,France,France,1991/5/28,Attack,Right,176,13500000,63000000,GB1,Fc Arsenal
+249126,2021,148,Harry Winks,England,England,1996/2/2,Midfield,Right,178,13500000,36000000,GB1,Tottenham Hotspur
+355628,2021,681,Igor Zubeldia,Spain,Spain,1997/3/30,Defender,Right,181,13500000,27000000,ES1,Real Sociedad San Sebastian
+376514,2021,3709,Mathias Olivera,Uruguay,Uruguay,1997/10/31,Defender,Left,185,13500000,13500000,ES1,Fc Getafe
+290249,2021,3709,Mauro Arambarri,Uruguay,Uruguay,1995/9/30,Midfield,Right,175,13500000,22500000,ES1,Fc Getafe
+503991,2021,1049,Yunus Musah,United States,United States,2002/11/29,Midfield,Right,178,13500000,13500000,ES1,Fc Valencia
+571020,2021,621,Oihan Sancet,Spain,Spain,2000/4/25,Attack,Right,188,13500000,13500000,ES1,Athletic Bilbao
+423444,2021,940,Fran Beltran,Spain,Spain,1999/2/3,Midfield,Right,165,13500000,16200000,ES1,Celta Vigo
+295313,2021,89,Taiwo Awoniyi,Nigeria,Nigeria,1997/8/12,Attack,Right,183,13500000,13500000,L1,1 Fc Union Berlin
+334222,2021,1531,Lucas Boye,Argentina,Argentina,1996/2/28,Attack,Right,183,13500000,13500000,ES1,Fc Elche
+167329,2021,18,Alassane Plea,France,France,1993/3/10,Attack,Right,181,13500000,34200000,L1,Borussia Monchengladbach
+237662,2021,18,Breel Embolo,Cameroon,Switzerland,1997/2/14,Attack,Right,187,13500000,19800000,L1,Borussia Monchengladbach
+612826,2021,79,Silas Katompa Mvumpa,DR Congo,DR Congo,1998/10/6,Midfield,Right,189,13500000,22500000,L1,Vfb Stuttgart
+289592,2021,79,Orel Mangala,Belgium,Belgium,1998/3/18,Midfield,Right,178,13500000,19800000,L1,Vfb Stuttgart
+190393,2021,27,Corentin Tolisso,France,France,1994/8/3,Midfield,Right,181,13500000,40500000,L1,Fc Bayern Munchen
+467720,2021,16,Youssoufa Moukoko,Cameroon,Germany,2004/11/20,Attack,Left,179,13500000,16200000,L1,Borussia Dortmund
+278359,2021,150,Borja Iglesias,Spain,Spain,1993/1/17,Attack,Right,187,13500000,25200000,ES1,Real Betis Sevilla
+126737,2021,150,Juanmi,Spain,Spain,1993/5/20,Attack,Right,172,13500000,13500000,ES1,Real Betis Sevilla
+234811,2021,150,Rui Silva,Portugal,Portugal,1994/2/7,Goalkeeper,Left,191,13500000,13500000,ES1,Real Betis Sevilla
+314367,2021,2420,Marcus Edwards,England,England,1998/12/3,Attack,Left,168,13500000,13500000,PO1,Vitoria Guimaraes Sc
+537602,2021,720,Joao Mario,Portugal,Portugal,2000/1/3,Defender,Both,178,13500000,13500000,PO1,Fc Porto
+221958,2021,294,Roman Yaremchuk,Ukraine,Ukraine,1995/11/27,Attack,Right,191,13500000,15750000,PO1,Benfica Lissabon
+321239,2021,294,Everton,Brazil,Brazil,1996/3/22,Attack,Right,174,13500000,36000000,PO1,Benfica Lissabon
+124419,2021,294,Odysseas Vlachodimos,Germany,Greece,1994/4/26,Goalkeeper,Right,191,13500000,16200000,PO1,Benfica Lissabon
+476701,2021,3329,Manuel Ugarte,Uruguay,Uruguay,2001/4/11,Midfield,Right,182,13500000,13500000,PO1,Fc Famalicao
+401578,2021,15,Exequiel Palacios,Argentina,Argentina,1998/10/5,Midfield,Right,177,13500000,22500000,L1,Bayer 04 Leverkusen
+125858,2021,15,Kerem Demirbay,Germany,Germany,1993/7/3,Midfield,Left,183,13500000,28800000,L1,Bayer 04 Leverkusen
+498237,2021,1075,David Carmo,Portugal,Portugal,1999/7/19,Defender,Left,196,13500000,13500000,PO1,Sc Braga
+502670,2021,2698,Khvicha Kvaratskhelia,Georgia,Georgia,2001/2/12,Attack,Both,183,13500000,16200000,RU1,Rubin Kazan
+257448,2021,162,Gelson Martins,Cape Verde,Portugal,1995/5/11,Attack,Right,173,13500000,31500000,FR1,As Monaco
+249730,2021,162,Guillermo Maripan,Chile,Chile,1994/5/6,Defender,Right,193,13500000,13500000,FR1,As Monaco
+185245,2021,16704,Jhon Cordoba,Colombia,Colombia,1993/5/11,Attack,Right,188,13500000,15300000,RU1,Fk Krasnodar
+555143,2021,121,Arsen Zakharyan,Russia,Russia,2003/5/26,Midfield,Right,182,13500000,13500000,RU1,Dinamo Moskau
+555076,2021,3911,Romain Faivre,France,France,1998/7/14,Midfield,Left,180,13500000,13500000,FR1,Stade Brest 29
+315110,2021,1041,Karl Toko Ekambi,France,Cameroon,1992/9/14,Attack,Right,185,13500000,16200000,FR1,Olympique Lyon
+416108,2021,417,Youcef Atal,Algeria,Algeria,1996/5/17,Defender,Both,176,13500000,22500000,FR1,Ogc Nizza
+330659,2021,417,Justin Kluivert,Netherlands,Netherlands,1999/5/5,Attack,Both,172,13500000,22500000,FR1,Ogc Nizza
+543387,2021,826,Cheick Doucoure,Mali,Mali,2000/1/8,Midfield,Right,180,13500000,13500000,FR1,Rc Lens
+175639,2021,826,Jonathan Clauss,France,France,1992/9/25,Defender,Right,178,13500000,13500000,FR1,Rc Lens
+317454,2021,36,Diego Rossi,Uruguay,Uruguay,1998/3/5,Attack,Right,170,13050000,18000000,TR1,Fenerbahce Istanbul
+346766,2019,800,Guilherme Arana,Brazil,Brazil,1997/4/14,Defender,Left,176,12600000,12600000,IT1,Atalanta Bergamo
+258889,2019,989,Dominic Solanke,England,England,1997/9/14,Attack,Right,186,12600000,16200000,GB1,Afc Bournemouth
+290862,2021,6574,Maxime Lopez,France,France,1997/12/4,Midfield,Right,167,12600000,15300000,IT1,Us Sassuolo
+392538,2021,416,Tommaso Pobega,Italy,Italy,1999/7/15,Midfield,Both,188,12600000,12600000,IT1,Fc Turin
+308279,2021,416,Rolando Mandragora,Italy,Italy,1997/6/29,Midfield,Left,183,12600000,13500000,IT1,Fc Turin
+408574,2021,306,Joey Veerman,Netherlands,Netherlands,1998/11/19,Midfield,Right,185,12600000,12600000,NL1,Sc Heerenveen
+369674,2021,800,Joakim Maehle,Denmark,Denmark,1997/5/20,Defender,Right,185,12600000,17100000,IT1,Atalanta Bergamo
+234781,2021,1132,Maxwel Cornet,Cote d'Ivoire,Cote d'Ivoire,1996/9/27,Attack,Left,179,12600000,16200000,GB1,Fc Burnley
+141050,2021,583,Danilo Pereira,Guinea-Bissau,Portugal,1991/9/9,Midfield,Right,188,12600000,27000000,FR1,Fc Paris Saint Germain
+295183,2021,1390,Razvan Marin,Romania,Romania,1996/5/23,Midfield,Right,178,12600000,13500000,IT1,Cagliari Calcio
+12907,2021,1390,Alessio Cragno,Italy,Italy,1994/6/28,Goalkeeper,Right,184,12600000,18000000,IT1,Cagliari Calcio
+503482,2021,36,Min Jae Kim,"Korea, South","Korea, South",1996/11/15,Defender,Right,190,12600000,12600000,TR1,Fenerbahce Istanbul
+439022,2021,141,Marcao,Brazil,Brazil,1996/6/5,Defender,Left,185,12600000,13500000,TR1,Galatasaray Istanbul
+251845,2021,1148,Sergi Canos,Spain,Spain,1997/2/2,Attack,Right,177,12600000,12600000,GB1,Fc Brentford
+148367,2021,1148,Christian Norgaard,Denmark,Denmark,1994/3/10,Midfield,Right,187,12600000,12600000,GB1,Fc Brentford
+249994,2021,543,Jose Sa,Portugal,Portugal,1993/1/17,Goalkeeper,Right,192,12600000,12600000,GB1,Wolverhampton Wanderers
+174094,2021,405,Morgan Sanson,France,France,1994/8/18,Midfield,Right,180,12600000,25200000,GB1,Aston Villa
+270171,2021,1148,Vitaly Janelt,Germany,Germany,1998/5/10,Midfield,Left,184,12600000,12600000,GB1,Fc Brentford
+668265,2021,281,Kayky,Brazil,Brazil,2003/6/11,Attack,Left,175,12600000,12600000,GB1,Manchester City
+181778,2021,631,Emerson,Brazil,Italy,1994/8/3,Defender,Left,176,12600000,27000000,GB1,Fc Chelsea
+381967,2021,11,Albert Sambi Lokonga,Belgium,Belgium,1999/10/22,Midfield,Right,183,12600000,14400000,GB1,Fc Arsenal
+402733,2021,368,Gonzalo Montiel,Argentina,Argentina,1997/1/1,Defender,Right,176,12600000,15300000,ES1,Fc Sevilla
+273152,2021,3709,Nemanja Maksimovi?,Yugoslavia (Republic),Serbia,1995/1/26,Midfield,Right,189,12600000,22500000,ES1,Fc Getafe
+142021,2021,714,Sergi Darder,Spain,Spain,1993/12/22,Midfield,Right,180,12600000,12600000,ES1,Espanyol Barcelona
+378293,2021,714,Yangel Herrera,Venezuela,Venezuela,1998/1/7,Midfield,Right,184,12600000,16200000,ES1,Espanyol Barcelona
+319745,2021,418,Dani Ceballos,Spain,Spain,1996/8/7,Midfield,Right,179,12600000,40500000,ES1,Real Madrid
+188854,2021,1050,Manu Trigueros,Spain,Spain,1991/10/17,Midfield,Right,178,12600000,18000000,ES1,Fc Villarreal
+17259,2021,27,Manuel Neuer,Germany,Germany,1986/3/27,Goalkeeper,Right,193,12600000,40500000,L1,Fc Bayern Munchen
+93740,2021,23826,Willi Orban,Germany,Hungary,1992/11/3,Defender,Right,186,12600000,18000000,L1,Rasenballsport Leipzig
+550550,2021,294,Goncalo Ramos,Portugal,Portugal,2001/6/20,Attack,Right,185,12600000,12600000,PO1,Benfica Lissabon
+361065,2021,15,Mitchel Bakker,Netherlands,Netherlands,2000/6/20,Defender,Left,185,12600000,12600000,L1,Bayer 04 Leverkusen
+182932,2021,610,Davy Klaassen,Netherlands,Netherlands,1993/2/21,Attack,Right,179,12600000,19800000,NL1,Ajax Amsterdam
+129554,2021,610,Steven Berghuis,Netherlands,Netherlands,1991/12/19,Attack,Left,182,12600000,13500000,NL1,Ajax Amsterdam
+367992,2021,1090,Jesper Karlsson,Sweden,Sweden,1998/7/25,Attack,Right,179,12600000,12600000,NL1,Az Alkmaar
+412932,2021,162,Myron Boadu,Netherlands,Netherlands,2001/1/14,Attack,Right,183,12600000,18000000,FR1,As Monaco
+285323,2021,273,Baptiste Santamaria,France,France,1995/3/9,Midfield,Right,183,12600000,13500000,FR1,Fc Stade Rennes
+320748,2021,121,Sebastian Szymanski,Poland,Poland,1999/5/10,Attack,Left,174,12600000,12600000,RU1,Dinamo Moskau
+326300,2021,1041,Jeff Reine Adelaide,France,France,1998/1/17,Attack,Right,184,12600000,22500000,FR1,Olympique Lyon
+277114,2021,1041,Jason Denayer,Belgium,Belgium,1995/6/28,Defender,Right,184,12600000,22500000,FR1,Olympique Lyon
+296802,2021,417,Walter Benitez,Argentina,Argentina,1993/1/19,Goalkeeper,Right,191,12600000,12600000,FR1,Ogc Nizza
+205006,2021,12,Rick Karsdorp,Netherlands,Netherlands,1995/2/11,Defender,Right,184,11700000,13500000,IT1,As Rom
+275303,2021,800,Hans Hateboer,Netherlands,Netherlands,1994/1/9,Defender,Right,185,11700000,16200000,IT1,Atalanta Bergamo
+159372,2021,398,Felipe Anderson,Brazil,Brazil,1993/4/15,Attack,Right,175,11700000,40500000,IT1,Lazio Rom
+497291,2021,1025,Nicolas Dominguez,Argentina,Argentina,1998/6/28,Midfield,Right,179,11700000,15750000,IT1,Fc Bologna
+145707,2021,506,Danilo,Brazil,Brazil,1991/7/15,Defender,Right,184,11700000,22500000,IT1,Juventus Turin
+280730,2021,430,Alvaro Odriozola,Spain,Spain,1995/12/14,Defender,Right,176,11700000,27000000,IT1,Ac Florenz
+659089,2021,338,Ilya Zabarnyi,Ukraine,Ukraine,2002/9/1,Defender,Right,189,11700000,11700000,UKR1,Dynamo Kiew
+346707,2021,762,Sean Longstaff,England,England,1997/10/30,Midfield,Right,181,11700000,19800000,GB1,Newcastle United
+255488,2021,621,Yeray Alvarez,Spain,Spain,1995/1/24,Defender,Right,182,11700000,27000000,ES1,Athletic Bilbao
+99331,2021,1003,Jannik Vestergaard,Denmark,Denmark,1992/8/3,Defender,Both,199,11700000,18000000,GB1,Leicester City
+338962,2021,124,Alfredo Morelos,Colombia,Colombia,1996/6/21,Attack,Both,177,11700000,13500000,SC1,Glasgow Rangers
+290587,2021,3,Ellyes Skhiri,France,Tunisia,1995/5/10,Midfield,Right,185,11700000,11700000,L1,1 Fc Koln
+546213,2021,24,Tuta,Brazil,Brazil,1999/7/4,Defender,Right,185,11700000,11700000,L1,Eintracht Frankfurt
+7161,2021,18,Jonas Hofmann,Germany,Germany,1992/7/14,Attack,Right,176,11700000,14400000,L1,Borussia Monchengladbach
+344069,2021,39,Anton Stach,Germany,Germany,1998/11/15,Midfield,Both,194,11700000,11700000,L1,1 Fsv Mainz 05
+538977,2021,533,Georginio Rutter,France,France,2002/4/20,Attack,Left,182,11700000,11700000,L1,Tsg 1899 Hoffenheim
+35207,2021,16,Marco Reus,Germany,Germany,1989/5/31,Attack,Right,180,11700000,45000000,L1,Borussia Dortmund
+502302,2021,58,Yari Verschaeren,Belgium,Belgium,2001/7/12,Attack,Right,172,11700000,14400000,BE1,Rsc Anderlecht
+211072,2021,336,Paulinho,Portugal,Portugal,1992/11/9,Attack,Left,187,11700000,13500000,PO1,Sporting Lissabon
+159088,2021,15,Robert Andrich,Germany,Germany,1994/9/22,Midfield,Right,187,11700000,11700000,L1,Bayer 04 Leverkusen
+315121,2021,234,Justin Bijlow,Netherlands,Netherlands,1998/1/22,Goalkeeper,Right,188,11700000,11700000,NL1,Feyenoord Rotterdam
+490426,2021,162,Krepin Diatta,Senegal,Senegal,1999/2/25,Attack,Right,175,11700000,18900000,FR1,As Monaco
+409344,2021,417,Calvin Stengs,Netherlands,Netherlands,1998/12/18,Attack,Left,182,11700000,18000000,FR1,Ogc Nizza
+122797,2021,969,Andy Delort,France,Algeria,1991/10/9,Attack,Right,181,11700000,14400000,FR1,Montpellier Hsc
+162569,2016,416,Josef Martinez,Venezuela,Venezuela,1993/5/19,Attack,Right,172,11250000,15750000,IT1,Fc Turin
+225984,2020,984,Matheus Pereira,Brazil,Brazil,1996/5/5,Attack,Left,175,11250000,13500000,GB1,West Bromwich Albion
+114937,2013,338,Dudu,Brazil,Brazil,1992/1/7,Attack,Right,166,10800000,13500000,UKR1,Dynamo Kiew
+184892,2019,244,Florian Thauvin,France,France,1993/1/26,Attack,Left,179,10800000,45000000,FR1,Olympique Marseille
+552549,2021,6574,Matheus Henrique,Brazil,Brazil,1997/12/19,Midfield,Right,175,10800000,19800000,IT1,Us Sassuolo
+245056,2021,416,Sasa Lukic,Yugoslavia (Republic),Serbia,1996/8/13,Midfield,Right,183,10800000,10800000,IT1,Fc Turin
+467992,2021,416,Samuele Ricci,Italy,Italy,2001/8/21,Midfield,Right,180,10800000,10800000,IT1,Fc Turin
+550108,2021,12,Nicola Zalewski,Italy,Poland,2002/1/23,Midfield,Both,175,10800000,10800000,IT1,As Rom
+112465,2021,12,Sergio Oliveira,Portugal,Portugal,1992/6/2,Midfield,Right,181,10800000,17100000,IT1,As Rom
+250013,2021,1420,Angelo Fulgini,Cote d'Ivoire,France,1996/8/20,Attack,Right,183,10800000,10800000,FR1,Sco Angers
+45320,2021,583,Angel Di Maria,Argentina,Argentina,1988/2/14,Attack,Left,180,10800000,58500000,FR1,Fc Paris Saint Germain
+126719,2021,583,Juan Bernat,Spain,Spain,1993/3/1,Defender,Left,177,10800000,18000000,FR1,Fc Paris Saint Germain
+126665,2021,583,Idrissa Gueye,Senegal,Senegal,1989/9/26,Midfield,Right,174,10800000,27000000,FR1,Fc Paris Saint Germain
+594991,2021,3524,Mohamed Bayo,France,Guinea,1998/6/4,Attack,Right,188,10800000,10800000,FR1,Clermont Foot 63
+263380,2021,36,Attila Szalai,Hungary,Hungary,1998/1/20,Defender,Left,192,10800000,13500000,TR1,Fenerbahce Istanbul
+327757,2021,430,Krzysztof Piatek,Poland,Poland,1995/7/1,Attack,Right,183,10800000,36000000,IT1,Ac Florenz
+422951,2021,141,Victor Nelsson,Denmark,Denmark,1998/10/14,Defender,Right,185,10800000,10800000,TR1,Galatasaray Istanbul
+199258,2021,6195,Andrea Petagna,Italy,Italy,1995/6/30,Attack,Left,190,10800000,18000000,IT1,Ssc Neapel
+507700,2021,1123,Brandon Williams,England,England,2000/9/3,Defender,Right,180,10800000,10800000,GB1,Norwich City
+374139,2021,399,Junior Firpo,Dominican Republic,Dominican Republic,1996/8/22,Defender,Left,184,10800000,22500000,GB1,Leeds United
+384461,2021,1237,Jakub Moder,Poland,Poland,1999/4/7,Midfield,Right,191,10800000,10800000,GB1,Brighton Amp Hove Albion
+423744,2021,1123,Billy Gilmour,Scotland,Scotland,2001/6/11,Midfield,Right,170,10800000,13500000,GB1,Norwich City
+413032,2021,180,Ibrahima Diallo,France,France,1999/3/8,Midfield,Right,179,10800000,13500000,GB1,Fc Southampton
+215118,2021,405,Calum Chambers,England,England,1995/1/20,Defender,Right,182,10800000,16200000,GB1,Aston Villa
+442248,2021,1148,Ethan Pinnock,England,Jamaica,1993/5/29,Defender,Left,194,10800000,10800000,GB1,Fc Brentford
+148368,2021,31,Divock Origi,Belgium,Belgium,1995/4/18,Attack,Right,189,10800000,18000000,GB1,Fc Liverpool
+165793,2021,31,Takumi Minamino,Japan,Japan,1995/1/16,Attack,Right,174,10800000,11250000,GB1,Fc Liverpool
+131978,2021,631,Ross Barkley,England,England,1993/12/5,Midfield,Right,185,10800000,27000000,GB1,Fc Chelsea
+112515,2021,631,Marcos Alonso,Spain,Spain,1990/12/28,Defender,Left,189,10800000,40500000,GB1,Fc Chelsea
+552425,2021,331,Jon Moncayola,Spain,Spain,1998/5/13,Midfield,Right,182,10800000,10800000,ES1,Ca Osasuna
+171679,2021,148,Matt Doherty,Ireland,Ireland,1992/1/16,Defender,Right,185,10800000,18000000,GB1,Tottenham Hotspur
+346478,2021,148,Japhet Tanganga,England,England,1999/3/31,Defender,Right,184,10800000,13500000,GB1,Tottenham Hotspur
+177847,2021,681,Adnan Januzaj,Belgium,Belgium,1995/2/5,Attack,Left,186,10800000,13500000,ES1,Real Sociedad San Sebastian
+709187,2021,621,Nico Williams,Spain,Spain,2002/7/12,Attack,Right,181,10800000,10800000,ES1,Athletic Bilbao
+338425,2021,621,Alex Berenguer,Spain,Spain,1995/7/4,Attack,Right,175,10800000,13500000,ES1,Athletic Bilbao
+396894,2021,1049,Maxi Gomez,Uruguay,Uruguay,1996/8/14,Attack,Right,186,10800000,36000000,ES1,Fc Valencia
+524000,2021,621,Dani Vivian,Spain,Spain,1999/7/5,Defender,Right,184,10800000,10800000,ES1,Athletic Bilbao
+367464,2021,16795,Luis Maximiano,Portugal,Portugal,1999/1/5,Goalkeeper,Both,190,10800000,10800000,ES1,Fc Granada
+448628,2021,940,Javi Galan,Spain,Spain,1994/11/19,Defender,Left,172,10800000,10800000,ES1,Celta Vigo
+505194,2021,1003,Luke Thomas,England,England,2001/6/10,Defender,Left,181,10800000,10800000,GB1,Leicester City
+182904,2021,131,Clement Lenglet,France,France,1995/6/17,Defender,Left,186,10800000,54000000,ES1,Fc Barcelona
+221316,2021,418,Lucas Vazquez,Spain,Spain,1991/7/1,Attack,Right,173,10800000,22500000,ES1,Real Madrid
+50202,2021,418,Eden Hazard,Belgium,Belgium,1991/1/7,Attack,Right,175,10800000,135000000,ES1,Real Madrid
+104124,2021,379,Michail Antonio,England,Jamaica,1990/3/28,Attack,Right,180,10800000,16200000,GB1,West Ham United
+157672,2021,379,Vladimir Coufal,CSSR,Czech Republic,1992/8/22,Defender,Right,179,10800000,10800000,GB1,West Ham United
+272622,2021,379,Issa Diop,France,France,1997/1/9,Defender,Right,194,10800000,31500000,GB1,West Ham United
+185077,2021,60,Vincenzo Grifo,Germany,Italy,1993/4/7,Attack,Right,180,10800000,10800000,L1,Sc Freiburg
+93707,2021,60,Christian Gunter,Germany,Germany,1993/2/28,Defender,Left,185,10800000,10800000,L1,Sc Freiburg
+314295,2021,167,Reece Oxford,England,England,1998/12/16,Defender,Right,190,10800000,10800000,L1,Fc Augsburg
+626913,2021,1050,Boulaye Dia,France,Senegal,1996/11/16,Attack,Right,180,10800000,12600000,ES1,Fc Villarreal
+183321,2021,82,Kevin Mbabu,Switzerland,Switzerland,1995/4/19,Defender,Right,184,10800000,12600000,L1,Vfl Wolfsburg
+202591,2021,23826,Benjamin Henrichs,Germany,Germany,1997/2/23,Defender,Right,185,10800000,18000000,L1,Rasenballsport Leipzig
+432982,2021,2282,Andreas Skov Olsen,Denmark,Denmark,1999/12/29,Midfield,Left,187,10800000,10800000,BE1,Fc Brugge
+122155,2021,150,Willian Jose,Brazil,Brazil,1991/11/23,Attack,Right,189,10800000,27000000,ES1,Real Betis Sevilla
+454121,2021,720,Galeno,Brazil,Brazil,1997/10/22,Midfield,Right,179,10800000,10800000,PO1,Fc Porto
+222813,2021,720,Marko Grujic,Yugoslavia (Republic),Serbia,1996/4/13,Midfield,Right,191,10800000,18000000,PO1,Fc Porto
+532776,2021,15,Amine Adli,France,France,2000/5/10,Attack,Left,174,10800000,10800000,L1,Bayer 04 Leverkusen
+36139,2021,610,Dusan Tadi?,Jugoslawien (SFR),Serbia,1988/11/20,Attack,Left,181,10800000,22500000,NL1,Ajax Amsterdam
+234509,2021,610,Andre Onana,Cameroon,Cameroon,1996/4/2,Goalkeeper,Right,190,10800000,40500000,NL1,Ajax Amsterdam
+223367,2021,234,Fredrik Aursnes,Norway,Norway,1995/12/10,Midfield,Right,181,10800000,10800000,NL1,Feyenoord Rotterdam
+420210,2021,234,Lutsharel Geertruida,Netherlands,Netherlands,2000/7/18,Defender,Right,184,10800000,10800000,NL1,Feyenoord Rotterdam
+377641,2021,1075,Al Musrati,Libya,Libya,1996/4/6,Midfield,Right,189,10800000,10800000,PO1,Sc Braga
+339328,2021,1090,Owen Wijndal,Netherlands,Netherlands,1999/11/28,Defender,Left,176,10800000,15750000,NL1,Az Alkmaar
+332889,2021,244,Valentin Rongier,France,France,1994/12/7,Midfield,Right,172,10800000,18000000,FR1,Olympique Marseille
+485963,2021,244,Pape Gueye,France,Senegal,1999/1/24,Midfield,Left,183,10800000,10800000,FR1,Olympique Marseille
+286415,2021,244,Pau Lopez,Spain,Spain,1994/12/13,Goalkeeper,Left,189,10800000,21600000,FR1,Olympique Marseille
+654539,2021,273,Adrien Truffert,Belgium,France,2001/11/20,Defender,Left,176,10800000,10800000,FR1,Fc Stade Rennes
+361914,2021,273,Nayef Aguerd,Morocco,Morocco,1996/3/30,Defender,Left,188,10800000,10800000,FR1,Fc Stade Rennes
+730581,2021,273,Loic Bade,France,France,2000/4/11,Defender,Right,191,10800000,15300000,FR1,Fc Stade Rennes
+370846,2021,1082,Timothy Weah,United States,United States,2000/2/22,Attack,Right,185,10800000,13500000,FR1,Losc Lille
+84301,2021,1082,Benjamin Andre,France,France,1990/8/3,Midfield,Right,180,10800000,13500000,FR1,Losc Lille
+420465,2021,1082,Tiago Djalo,Portugal,Portugal,2000/4/9,Defender,Right,190,10800000,10800000,FR1,Losc Lille
+344888,2021,667,Habib Diallo,Senegal,Senegal,1995/6/18,Attack,Right,186,10800000,13500000,FR1,Rc Strassburg Alsace
+620322,2021,1041,Malo Gusto,France,France,2003/5/19,Defender,Right,179,10800000,10800000,FR1,Olympique Lyon
+659542,2021,969,Elye Wahi,France,France,2003/1/2,Attack,Right,184,10800000,10800000,FR1,Montpellier Hsc
+127156,2021,969,Teji Savanier,France,France,1991/12/22,Midfield,Right,171,10800000,10800000,FR1,Montpellier Hsc
+258626,2017,114,Talisca,Brazil,Brazil,1994/2/1,Attack,Left,190,10350000,25200000,TR1,Besiktas Istanbul
+470794,2021,276,Ivan Ilic,Yugoslavia (Republic),Serbia,2001/3/17,Midfield,Left,185,9900000,9900000,IT1,Hellas Verona
+481173,2021,683,Mady Camara,Guinea,Guinea,1997/2/28,Midfield,Right,182,9900000,13500000,GR1,Olympiakos Piraus
+289059,2021,660,Mykola Matvienko,Ukraine,Ukraine,1996/5/2,Defender,Left,182,9900000,9900000,UKR1,Shakhtar Donetsk
+485424,2021,180,Moussa Djenepo,Mali,Mali,1998/6/15,Attack,Right,177,9900000,11700000,GB1,Fc Southampton
+160438,2021,11,Mohamed Elneny,Egypt,Egypt,1992/7/11,Midfield,Right,179,9900000,9900000,GB1,Fc Arsenal
+71292,2021,762,Jonjo Shelvey,England,England,1992/2/27,Midfield,Right,184,9900000,16200000,GB1,Newcastle United
+183318,2021,762,Jamaal Lascelles,England,England,1993/11/11,Defender,Right,188,9900000,16200000,GB1,Newcastle United
+57071,2021,23826,Peter Gulacsi,Hungary,Hungary,1990/5/6,Goalkeeper,Right,190,9900000,11700000,L1,Rasenballsport Leipzig
+223974,2021,533,Stefan Posch,Austria,Austria,1997/5/14,Defender,Right,188,9900000,12600000,L1,Tsg 1899 Hoffenheim
+108880,2021,82,Koen Casteels,Belgium,Belgium,1992/6/25,Goalkeeper,Left,197,9900000,12600000,L1,Vfl Wolfsburg
+435648,2021,58,Joshua Zirkzee,Netherlands,Netherlands,2001/5/22,Attack,Right,193,9900000,9900000,BE1,Rsc Anderlecht
+428791,2021,15,Paulinho,Brazil,Brazil,2000/7/15,Attack,Right,177,9900000,22500000,L1,Bayer 04 Leverkusen
+131225,2021,610,Nicolas Tagliafico,Argentina,Argentina,1992/8/31,Defender,Left,172,9900000,31500000,NL1,Ajax Amsterdam
+263905,2021,932,Dmitri Barinov,Russia,Russia,1996/9/11,Midfield,Both,181,9900000,11250000,RU1,Lokomotiv Moskau
+474800,2021,826,Facundo Medina,Argentina,Argentina,1999/5/28,Defender,Left,184,9900000,9900000,FR1,Rc Lens
+369316,2021,36,Ferdi Kadioglu,Netherlands,Turkey,1999/10/7,Defender,Right,174,9450000,9450000,TR1,Fenerbahce Istanbul
+271495,2021,449,Abdulkadir Omur,Turkey,Turkey,1999/6/25,Attack,Left,168,9450000,13500000,TR1,Trabzonspor
+226049,2018,762,Freddie Woodman,England,England,1997/3/4,Goalkeeper,Right,188,9000000,9000000,GB1,Newcastle United
+432895,2019,430,Pedro,Brazil,Brazil,1997/6/20,Attack,Right,185,9000000,16200000,IT1,Ac Florenz
+480116,2019,989,Lloyd Kelly,England,England,1998/10/6,Defender,Left,190,9000000,9000000,GB1,Afc Bournemouth
+226973,2020,931,Harrison Reed,England,England,1995/1/27,Midfield,Right,181,9000000,9000000,GB1,Fc Fulham
+146752,2021,276,Gianluca Caprari,Italy,Italy,1993/7/30,Attack,Right,171,9000000,9000000,IT1,Hellas Verona
+595809,2021,410,Beto,Portugal,Portugal,1998/1/31,Attack,Right,194,9000000,9000000,IT1,Udinese Calcio
+129476,2021,410,Gerard Deulofeu,Spain,Spain,1994/3/13,Attack,Right,177,9000000,22500000,IT1,Udinese Calcio
+424042,2021,410,Nahuel Molina,Argentina,Argentina,1998/4/6,Defender,Right,175,9000000,9000000,IT1,Udinese Calcio
+277167,2021,6574,Gian Marco Ferrari,Italy,Italy,1992/5/15,Defender,Left,189,9000000,12600000,IT1,Us Sassuolo
+285845,2021,12,Ainsley Maitland Niles,England,England,1997/8/29,Midfield,Right,180,9000000,16200000,IT1,As Rom
+255450,2021,800,Aleksey Miranchuk,Russia,Russia,1995/10/17,Attack,Left,182,9000000,16200000,IT1,Atalanta Bergamo
+571604,2021,800,Giorgio Scalvini,Italy,Italy,2003/12/11,Defender,Right,194,9000000,9000000,IT1,Atalanta Bergamo
+99343,2021,583,Ander Herrera,Spain,Spain,1989/8/14,Midfield,Right,182,9000000,27000000,FR1,Fc Paris Saint Germain
+390177,2021,749,Nedim Bajrami,Switzerland,Albania,1999/2/28,Attack,Right,179,9000000,9000000,IT1,Fc Empoli
+504209,2021,607,Gianluca Busio,United States,United States,2002/5/28,Midfield,Right,170,9000000,9000000,IT1,Venezia Fc
+368482,2021,1025,Riccardo Orsolini,Italy,Italy,1997/1/24,Attack,Left,183,9000000,22500000,IT1,Fc Bologna
+368891,2021,1025,Arthur Theate,Belgium,Belgium,2000/5/25,Defender,Left,186,9000000,9000000,IT1,Fc Bologna
+197300,2021,506,Federico Bernardeschi,Italy,Italy,1994/2/16,Attack,Left,183,9000000,40500000,IT1,Juventus Turin
+182618,2021,5,Tiemoue Bakayoko,France,France,1994/8/17,Midfield,Right,189,9000000,36000000,IT1,Ac Mailand
+42460,2021,46,Ivan Perisic,Jugoslawien (SFR),Croatia,1989/2/2,Midfield,Both,186,9000000,40500000,IT1,Inter Mailand
+525704,2021,252,Nicolo Rovella,Italy,Italy,2001/12/4,Midfield,Right,179,9000000,9000000,IT1,Genua Cfc
+338672,2021,252,Zinho Vanheusden,Belgium,Belgium,1999/7/29,Defender,Right,187,9000000,16200000,IT1,Genua Cfc
+329517,2021,683,Georgios Masouras,Greece,Greece,1994/1/1,Attack,Right,184,9000000,9000000,GR1,Olympiakos Piraus
+184894,2021,430,Alfred Duncan,Ghana,Ghana,1993/3/10,Midfield,Left,178,9000000,16200000,IT1,Ac Florenz
+124555,2021,430,Cristiano Biraghi,Italy,Italy,1992/9/1,Defender,Left,185,9000000,10800000,IT1,Ac Florenz
+179184,2021,114,Michy Batshuayi,Belgium,Belgium,1993/10/2,Attack,Right,185,9000000,36000000,TR1,Besiktas Istanbul
+391004,2021,190,Jonas Wind,Denmark,Denmark,1999/2/7,Attack,Right,190,9000000,9000000,DK1,Fc Kopenhagen
+500091,2021,114,Ersin Destanoglu,Turkey,Turkey,2001/1/1,Goalkeeper,Right,195,9000000,9000000,TR1,Besiktas Istanbul
+343463,2021,114,Cyle Larin,Canada,Canada,1995/4/17,Attack,Right,188,9000000,10350000,TR1,Besiktas Istanbul
+234189,2021,6890,Trezeguet,Egypt,Egypt,1994/10/1,Attack,Right,179,9000000,9000000,TR1,Istanbul Basaksehir Fk
+240414,2021,6195,Alex Meret,Italy,Italy,1997/3/22,Goalkeeper,Left,190,9000000,36000000,IT1,Ssc Neapel
+368611,2021,338,Mykola Shaparenko,Ukraine,Ukraine,1998/10/4,Midfield,Right,178,9000000,9000000,UKR1,Dynamo Kiew
+626724,2021,1010,Joao Pedro,Brazil,Brazil,2001/9/26,Attack,Right,182,9000000,18000000,GB1,Fc Watford
+635336,2021,1010,Imran Louza,France,Morocco,1999/5/1,Midfield,Left,178,9000000,10800000,GB1,Fc Watford
+273236,2021,660,Marlon,Brazil,Brazil,1995/9/7,Defender,Right,182,9000000,9000000,UKR1,Shakhtar Donetsk
+257805,2021,1123,Mathias Normann,Norway,Norway,1996/5/28,Midfield,Right,179,9000000,11700000,GB1,Norwich City
+361260,2021,1123,Ozan Kabak,Turkey,Turkey,2000/3/25,Defender,Right,187,9000000,28800000,GB1,Norwich City
+388165,2021,1148,Yoane Wissa,France,DR Congo,1996/9/3,Attack,Right,180,9000000,9000000,GB1,Fc Brentford
+340321,2021,1148,Josh Dasilva,England,England,1998/10/23,Midfield,Left,184,9000000,9000000,GB1,Fc Brentford
+319859,2021,1148,Mathias Jensen,Denmark,Denmark,1996/1/1,Midfield,Right,180,9000000,9000000,GB1,Fc Brentford
+186644,2021,180,Mohamed Elyounoussi,Morocco,Norway,1994/8/4,Attack,Right,178,9000000,13500000,GB1,Fc Southampton
+183720,2021,29,Anwar El Ghazi,Netherlands,Netherlands,1995/5/3,Attack,Right,189,9000000,11700000,GB1,Fc Everton
+192279,2021,631,Kepa Arrizabalaga,Spain,Spain,1994/10/3,Goalkeeper,Right,186,9000000,54000000,GB1,Fc Chelsea
+253341,2021,11,Rob Holding,England,England,1995/9/20,Defender,Right,189,9000000,16200000,GB1,Fc Arsenal
+108725,2021,762,Chris Wood,New Zealand,New Zealand,1991/12/7,Attack,Right,191,9000000,16200000,GB1,Newcastle United
+146795,2021,762,Ryan Fraser,Scotland,Scotland,1994/2/24,Attack,Right,163,9000000,27000000,GB1,Newcastle United
+206225,2021,762,Isaac Hayden,England,England,1995/3/22,Midfield,Right,187,9000000,9000000,GB1,Newcastle United
+346018,2021,762,Jamal Lewis,England,Northern Ireland,1998/1/25,Defender,Left,178,9000000,15300000,GB1,Newcastle United
+246968,2021,1003,Ayoze Perez,Spain,Spain,1993/7/29,Attack,Right,178,9000000,27000000,GB1,Leicester City
+618809,2021,331,Manu Sanchez,Spain,Spain,2000/8/24,Defender,Left,171,9000000,9000000,ES1,Ca Osasuna
+111961,2021,368,Suso,Spain,Spain,1993/11/19,Attack,Left,177,9000000,45000000,ES1,Fc Sevilla
+244192,2021,148,Pierluigi Gollini,Italy,Italy,1995/3/18,Goalkeeper,Right,194,9000000,15300000,GB1,Tottenham Hotspur
+238407,2021,681,Alexander Sorloth,Norway,Norway,1995/12/5,Attack,Left,195,9000000,18000000,ES1,Real Sociedad San Sebastian
+289255,2021,681,Andoni Gorosabel,Spain,Spain,1996/8/4,Defender,Right,174,9000000,9000000,ES1,Real Sociedad San Sebastian
+573775,2021,1049,Hugo Duro,Spain,Spain,1999/11/10,Attack,Left,182,9000000,9000000,ES1,Fc Valencia
+221150,2021,3709,Djene,Togo,Togo,1991/12/31,Defender,Right,178,9000000,27000000,ES1,Fc Getafe
+353032,2021,1049,Omar Alderete,Paraguay,Paraguay,1996/12/26,Defender,Left,188,9000000,9000000,ES1,Fc Valencia
+502676,2021,1049,Giorgi Mamardashvili,Georgia,Georgia,2000/9/29,Goalkeeper,Left,197,9000000,9000000,ES1,Fc Valencia
+165007,2021,940,Denis Suarez,Spain,Spain,1994/1/6,Attack,Right,176,9000000,16200000,ES1,Celta Vigo
+277137,2021,940,Renato Tapia,Peru,Peru,1995/7/28,Midfield,Right,185,9000000,18000000,ES1,Celta Vigo
+406040,2021,1003,Ademola Lookman,England,Nigeria,1997/10/20,Attack,Right,174,9000000,18000000,GB1,Leicester City
+214056,2021,1003,Daniel Amartey,Ghana,Ghana,1994/12/21,Defender,Right,186,9000000,9000000,GB1,Leicester City
+27992,2021,418,Luka Modric,Jugoslawien (SFR),Croatia,1985/9/9,Midfield,Both,172,9000000,49500000,ES1,Real Madrid
+468198,2021,124,Joe Aribo,England,Nigeria,1996/7/21,Midfield,Left,183,9000000,9000000,SC1,Glasgow Rangers
+62094,2021,124,James Tavernier,England,England,1991/10/31,Defender,Right,182,9000000,9000000,SC1,Glasgow Rangers
+461883,2021,124,Calvin Bassey,Italy,Nigeria,1999/12/31,Defender,Left,185,9000000,9000000,SC1,Glasgow Rangers
+135853,2021,379,Manuel Lanzini,Argentina,Argentina,1993/2/15,Attack,Right,167,9000000,18000000,GB1,West Ham United
+332798,2021,60,Roland Sallai,Hungary,Hungary,1997/5/22,Attack,Both,182,9000000,14400000,L1,Sc Freiburg
+278343,2021,167,Felix Uduokhai,Germany,Germany,1997/9/9,Defender,Left,192,9000000,14400000,L1,Fc Augsburg
+251302,2021,167,Niklas Dorsch,Germany,Germany,1998/1/15,Midfield,Right,178,9000000,9000000,L1,Fc Augsburg
+429874,2021,24,Ansgar Knauff,Germany,Germany,2002/1/10,Attack,Right,180,9000000,9000000,L1,Eintracht Frankfurt
+127032,2021,1050,Serge Aurier,Cote d'Ivoire,Cote d'Ivoire,1992/12/24,Defender,Right,176,9000000,18000000,ES1,Fc Villarreal
+146310,2021,79,Wataru Endo,Japan,Japan,1993/2/9,Midfield,Right,178,9000000,9000000,L1,Vfb Stuttgart
+503881,2021,82,Aster Vranckx,Belgium,Belgium,2002/10/4,Midfield,Right,183,9000000,9000000,L1,Vfl Wolfsburg
+251309,2021,533,Dennis Geiger,Germany,Germany,1998/6/10,Midfield,Right,173,9000000,11700000,L1,Tsg 1899 Hoffenheim
+338629,2021,82,Sebastiaan Bornauw,Belgium,Belgium,1999/3/22,Defender,Right,191,9000000,12600000,L1,Vfl Wolfsburg
+627226,2021,16,Reinier,Brazil,Brazil,2002/1/19,Attack,Right,185,9000000,22500000,L1,Borussia Dortmund
+455181,2021,3368,Jorge De Frutos,Spain,Spain,1997/2/20,Attack,Right,173,9000000,13500000,ES1,Ud Levante
+366930,2021,58,Sergio Gomez,Spain,Spain,2000/9/4,Defender,Left,171,9000000,9000000,BE1,Rsc Anderlecht
+544784,2021,720,Zaidu,Nigeria,Nigeria,1997/6/13,Defender,Left,182,9000000,9000000,PO1,Fc Porto
+149729,2021,294,Joao Mario,Portugal,Portugal,1993/1/19,Midfield,Right,179,9000000,31500000,PO1,Benfica Lissabon
+411662,2021,294,Lucas Verissimo,Brazil,Brazil,1995/7/2,Defender,Right,188,9000000,9000000,PO1,Benfica Lissabon
+673492,2021,294,Morato,Brazil,Brazil,2001/6/30,Defender,Left,192,9000000,9000000,PO1,Benfica Lissabon
+193782,2021,15,Lucas Alario,Argentina,Argentina,1992/10/8,Attack,Right,184,9000000,18000000,L1,Bayer 04 Leverkusen
+543499,2021,610,Mohammed Kudus,Ghana,Ghana,2000/8/2,Midfield,Left,177,9000000,13500000,NL1,Ajax Amsterdam
+370791,2021,383,Pablo Rosario,Netherlands,Netherlands,1997/1/7,Midfield,Right,185,9000000,11700000,NL1,Psv Eindhoven
+74842,2021,383,Mario Gotze,Germany,Germany,1992/6/3,Attack,Right,176,9000000,49500000,NL1,Psv Eindhoven
+276896,2021,232,Samuel Gigot,France,France,1993/10/12,Defender,Right,187,9000000,9900000,RU1,Spartak Moskau
+822458,2021,244,Bamba Dieng,Senegal,Senegal,2000/3/23,Attack,Right,178,9000000,9000000,FR1,Olympique Marseille
+372711,2021,244,Amine Harit,France,Morocco,1997/6/18,Attack,Right,180,9000000,27000000,FR1,Olympique Marseille
+575998,2021,244,Leonardo Balerdi,Argentina,Argentina,1999/1/26,Defender,Right,187,9000000,13500000,FR1,Olympique Marseille
+203746,2021,162,Ruben Aguilar,France,France,1993/4/26,Defender,Right,172,9000000,10800000,FR1,As Monaco
+270541,2021,273,Serhou Guirassy,France,Guinea,1996/3/12,Attack,Right,187,9000000,13500000,FR1,Fc Stade Rennes
+297070,2021,273,Hamari Traore,Mali,Mali,1992/1/27,Defender,Right,175,9000000,9000000,FR1,Fc Stade Rennes
+274862,2021,995,Moses Simon,Nigeria,Nigeria,1995/7/12,Attack,Right,168,9000000,9000000,FR1,Fc Nantes
+435485,2021,1082,Luiz Araujo,Brazil,Brazil,1996/6/2,Attack,Left,175,9000000,9000000,FR1,Losc Lille
+485706,2021,1082,Amadou Onana,Senegal,Belgium,2001/8/16,Midfield,Both,195,9000000,9000000,FR1,Losc Lille
+620313,2021,618,Lucas Gourna Douath,France,France,2003/8/5,Midfield,Right,185,9000000,10800000,FR1,As Saint Etienne
+229006,2021,3911,Franck Honorat,France,France,1996/8/11,Attack,Right,180,9000000,9000000,FR1,Stade Brest 29
+236400,2021,1041,Leo Dubois,France,France,1994/9/14,Defender,Right,178,9000000,14400000,FR1,Olympique Lyon
+60561,2021,1041,Anthony Lopes,France,Portugal,1990/10/1,Goalkeeper,Left,184,9000000,22500000,FR1,Olympique Lyon
+250844,2021,667,Alexander Djiku,France,Ghana,1994/8/9,Defender,Right,182,9000000,9000000,FR1,Rc Strassburg Alsace
+292808,2021,1421,Wout Faes,Belgium,Belgium,1998/4/3,Defender,Right,187,9000000,9000000,FR1,Stade Reims
+340328,2021,969,Stephy Mavididi,England,England,1998/5/31,Attack,Right,183,9000000,9000000,FR1,Montpellier Hsc
+624037,2021,969,Joris Chotard,France,France,2001/9/24,Midfield,Right,179,9000000,9000000,FR1,Montpellier Hsc
+162571,2021,449,Anastasios Bakasetas,Greece,Greece,1993/6/28,Attack,Left,181,8550000,9000000,TR1,Trabzonspor
+44162,2021,114,Miralem Pjanic,Jugoslawien (SFR),Bosnia-Herzegovina,1990/4/2,Midfield,Right,178,8550000,63000000,TR1,Besiktas Istanbul
+638793,2021,2282,Tajon Buchanan,Canada,Canada,1999/2/8,Attack,Right,183,8550000,8550000,BE1,Fc Brugge
+429014,2019,543,Morgan Gibbs White,England,England,2000/1/27,Midfield,Right,178,8100000,8100000,GB1,Wolverhampton Wanderers
+249089,2019,989,Lewis Cook,England,England,1997/2/3,Midfield,Right,175,8100000,18000000,GB1,Afc Bournemouth
+147487,2019,720,Vincent Aboubakar,Cameroon,Cameroon,1992/1/22,Attack,Right,184,8100000,16200000,PO1,Fc Porto
+283130,2019,720,Moussa Marega,France,Mali,1991/4/14,Attack,Right,183,8100000,27000000,PO1,Fc Porto
+406560,2020,350,Rhian Brewster,England,England,2000/4/1,Attack,Right,180,8100000,13500000,GB1,Sheffield United
+349701,2020,931,Antonee Robinson,England,United States,1997/8/8,Defender,Left,183,8100000,8100000,GB1,Fc Fulham
+556385,2021,410,Destiny Udogie,Italy,Italy,2002/11/28,Defender,Left,188,8100000,8100000,IT1,Udinese Calcio
+298976,2021,12,Borja Mayoral,Spain,Spain,1997/4/5,Attack,Right,182,8100000,12600000,IT1,As Rom
+173859,2021,800,Davide Zappacosta,Italy,Italy,1992/6/11,Defender,Right,182,8100000,18000000,IT1,Atalanta Bergamo
+538874,2021,1158,Terem Moffi,Nigeria,Nigeria,1999/5/25,Attack,Left,188,8100000,10800000,FR1,Fc Lorient
+129473,2021,583,Rafinha,Brazil,Brazil,1993/2/12,Midfield,Left,174,8100000,25200000,FR1,Fc Paris Saint Germain
+259953,2021,5,Rade Krunic,Bosnia-Herzegovina,Bosnia-Herzegovina,1993/10/7,Midfield,Right,184,8100000,8100000,IT1,Ac Mailand
+346567,2021,506,Luca Pellegrini,Italy,Italy,1999/3/7,Defender,Left,178,8100000,13500000,IT1,Juventus Turin
+232454,2021,252,Nadiem Amiri,Germany,Germany,1996/10/27,Midfield,Right,180,8100000,19800000,IT1,Genua Cfc
+203412,2021,449,Andreas Cornelius,Denmark,Denmark,1993/3/16,Attack,Left,193,8100000,10800000,TR1,Trabzonspor
+386455,2021,430,Riccardo Sottil,Italy,Italy,1999/6/3,Attack,Right,180,8100000,8100000,IT1,Ac Florenz
+287579,2021,430,Sofyan Amrabat,Netherlands,Morocco,1996/8/21,Midfield,Right,185,8100000,18000000,IT1,Ac Florenz
+208166,2021,430,Bartlomiej Dragowski,Poland,Poland,1997/8/19,Goalkeeper,Right,191,8100000,14400000,IT1,Ac Florenz
+206888,2021,338,Georgiy Bushchan,Ukraine,Ukraine,1994/5/31,Goalkeeper,Right,196,8100000,8100000,UKR1,Dynamo Kiew
+459463,2021,1010,Cucho Hernandez,Colombia,Colombia,1999/4/20,Attack,Right,176,8100000,10800000,GB1,Fc Watford
+551695,2021,660,Lassina Traore,Burkina Faso,Burkina Faso,2001/1/12,Attack,Right,183,8100000,8100000,UKR1,Shakhtar Donetsk
+537860,2021,660,Mykhaylo Mudryk,Ukraine,Ukraine,2001/1/5,Attack,Right,175,8100000,8100000,UKR1,Shakhtar Donetsk
+209212,2021,1237,Solly March,England,England,1994/7/20,Midfield,Left,180,8100000,8100000,GB1,Brighton Amp Hove Albion
+204198,2021,543,Romain Saiss,France,Morocco,1990/3/26,Defender,Left,188,8100000,9000000,GB1,Wolverhampton Wanderers
+421637,2021,1148,Frank Onyeka,Nigeria,Nigeria,1998/1/1,Midfield,Right,183,8100000,9000000,GB1,Fc Brentford
+57500,2021,631,Cesar Azpilicueta,Spain,Spain,1989/8/28,Defender,Right,178,8100000,36000000,GB1,Fc Chelsea
+72476,2021,11,Bernd Leno,Germany,Germany,1992/3/4,Goalkeeper,Right,190,8100000,31500000,GB1,Fc Arsenal
+188077,2021,371,Ryan Christie,Scotland,Scotland,1995/2/22,Attack,Left,178,8100000,8100000,SC1,Celtic Glasgow
+616369,2021,681,Ander Barrenetxea,Spain,Spain,2001/12/27,Attack,Right,175,8100000,13500000,ES1,Real Sociedad San Sebastian
+284884,2021,3709,Oscar Rodriguez,Spain,Spain,1998/6/28,Attack,Right,174,8100000,13500000,ES1,Fc Getafe
+284854,2021,3709,Carles Alena,Spain,Spain,1998/1/5,Midfield,Left,180,8100000,27000000,ES1,Fc Getafe
+99353,2021,681,Portu,Spain,Spain,1992/5/21,Attack,Right,167,8100000,18000000,ES1,Real Sociedad San Sebastian
+617074,2021,1049,Ilaix Moriba,Guinea,Guinea,2003/1/19,Midfield,Right,185,8100000,22500000,ES1,Fc Valencia
+338285,2021,621,Unai Nunez,Spain,Spain,1997/1/30,Defender,Right,186,8100000,18000000,ES1,Athletic Bilbao
+501418,2021,714,Adria Pedrosa,Spain,Spain,1998/5/13,Defender,Left,172,8100000,9000000,ES1,Espanyol Barcelona
+424784,2021,16795,Luis Suarez,Colombia,Colombia,1997/12/2,Attack,Right,185,8100000,9000000,ES1,Fc Granada
+627207,2021,167,Ricardo Pepi,United States,United States,2003/1/9,Attack,Right,185,8100000,9000000,L1,Fc Augsburg
+65230,2021,131,Sergio Busquets,Spain,Spain,1988/7/16,Midfield,Right,189,8100000,72000000,ES1,Fc Barcelona
+69751,2021,131,Jordi Alba,Spain,Spain,1989/3/21,Defender,Left,170,8100000,63000000,ES1,Fc Barcelona
+303259,2021,44,Dodi Lukebakio,Belgium,Belgium,1997/9/24,Attack,Left,187,8100000,18900000,L1,Hertha Bsc
+353948,2021,44,Lucas Tousart,France,France,1997/4/29,Midfield,Right,185,8100000,22500000,L1,Hertha Bsc
+468002,2021,379,Ben Johnson,England,England,2000/1/24,Defender,Right,184,8100000,8100000,GB1,West Ham United
+120629,2021,379,Alphonse Areola,France,France,1993/2/27,Goalkeeper,Right,195,8100000,15750000,GB1,West Ham United
+374954,2021,24,Kristijan Jakic,Croatia,Croatia,1997/5/14,Midfield,Right,181,8100000,8100000,L1,Eintracht Frankfurt
+126716,2021,1050,Paco Alcacer,Spain,Spain,1993/8/30,Attack,Right,175,8100000,45000000,ES1,Fc Villarreal
+59561,2021,1050,Dani Parejo,Spain,Spain,1989/4/16,Midfield,Right,182,8100000,31500000,ES1,Fc Villarreal
+538996,2021,27,Tanguy Nianzou,France,France,2002/6/7,Defender,Right,191,8100000,10800000,L1,Fc Bayern Munchen
+413565,2021,1184,Jhon Lucumi,Colombia,Colombia,1998/6/26,Defender,Left,187,8100000,11700000,BE1,Krc Genk
+337725,2021,58,Christian Kouame,Cote d'Ivoire,Cote d'Ivoire,1997/12/6,Attack,Right,185,8100000,19800000,BE1,Rsc Anderlecht
+100986,2021,16,Thomas Meunier,Belgium,Belgium,1991/9/12,Defender,Right,191,8100000,31500000,L1,Borussia Dortmund
+39728,2021,16,Mats Hummels,Germany,Germany,1988/12/16,Defender,Right,191,8100000,54000000,L1,Borussia Dortmund
+344598,2021,16,Dan Axel Zagadou,France,France,1999/6/3,Defender,Left,196,8100000,31500000,L1,Borussia Dortmund
+473169,2021,610,Brian Brobbey,Netherlands,Netherlands,2002/2/1,Attack,Right,180,8100000,8100000,NL1,Ajax Amsterdam
+12282,2021,610,Daley Blind,Netherlands,Netherlands,1990/3/9,Defender,Left,180,8100000,22500000,NL1,Ajax Amsterdam
+395236,2021,40,Yacine Adli,France,France,2000/7/29,Attack,Right,186,8100000,8100000,FR1,Fc Girondins Bordeaux
+182381,2021,232,Quincy Promes,Netherlands,Netherlands,1992/1/4,Attack,Right,174,8100000,21600000,RU1,Spartak Moskau
+182894,2021,2410,Jean Philippe Gbamin,Cote d'Ivoire,Cote d'Ivoire,1995/9/25,Midfield,Right,186,8100000,27000000,RU1,Zska Moskau
+279570,2021,964,Daler Kuzyaev,Russia,Russia,1993/1/15,Midfield,Right,182,8100000,9900000,RU1,Zenit St Petersburg
+290256,2021,1082,Xeka,Portugal,Portugal,1994/11/10,Midfield,Both,186,8100000,9000000,FR1,Losc Lille
+400713,2021,121,Daniil Fomin,Russia,Russia,1997/3/2,Midfield,Right,187,8100000,8100000,RU1,Dinamo Moskau
+316934,2021,121,Nikola Moro,Croatia,Croatia,1998/3/12,Midfield,Right,185,8100000,8100000,RU1,Dinamo Moskau
+135617,2021,1041,Thiago Mendes,Brazil,Brazil,1992/3/15,Midfield,Right,177,8100000,22500000,FR1,Olympique Lyon
+215977,2021,667,Adrien Thomasson,France,France,1993/12/10,Attack,Right,177,8100000,8100000,FR1,Rc Strassburg Alsace
+190263,2021,1421,Predrag Rajkovi?,Yugoslavia (Republic),Serbia,1995/10/31,Goalkeeper,Right,192,8100000,8100000,FR1,Stade Reims
+532775,2021,417,Melvin Bard,France,France,2000/11/6,Defender,Left,173,8100000,8100000,FR1,Ogc Nizza
+170934,2021,417,Mario Lemina,Gabon,Gabon,1993/9/1,Midfield,Right,184,8100000,13500000,FR1,Ogc Nizza
