@@ -5,7 +5,7 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
-plt.style.use('seaborn')
+plt.style.use('seaborn-v0_8')
 
 # show the title
 st.title('Values of Soccer Players(2021) Analyzing App \n   by Zhiqi Zhu and Shiwen Zhang')
